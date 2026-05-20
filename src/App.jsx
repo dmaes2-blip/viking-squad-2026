@@ -916,8 +916,8 @@ const PORTS = [
     heroColor: T.tealDark,
     historicBlurb: "On the night of 23 January 1904, a fire swept through Ålesund and destroyed nearly the entire town, leaving 10,000 people homeless in winter. Kaiser Wilhelm II of Germany sent immediate aid. Young Norwegian architects redesigned the city in just three years, creating the world's largest and most coherent collection of Art Nouveau architecture — over 400 buildings still standing today.",
     carousel: [
-      "/images/Ålesund Large.jpeg",
-      "/images/Ålesund2 Large.jpeg",
+      "/images/Alesund Large.jpeg",
+      "/images/Alesund2 Large.jpeg",
     ],
     excursions: [
       {
@@ -926,7 +926,7 @@ const PORTS = [
         desc: "418 steps, completely FREE, 1km from the ship. The iconic panoramic view of Ålesund spread across its islands. Do this first — it sets the tone for the whole day. No booking, no cost, no transport needed.",
         howto: "Walk 1km from pier to Byparken, then climb", price: "Free", prebook: false,
         link: null,
-        thumb: "/images/Ålesund Large.jpeg",
+        thumb: "/images/Alesund Large.jpeg",
       },
       {
         name: "Atlantic Sea Park (Atlanterhavsparken)",
@@ -934,23 +934,23 @@ const PORTS = [
         desc: "One of Northern Europe's largest saltwater aquariums. Seals, penguins, otters, and touch tanks. ~5.5km from port — take local bus #14 from the city centre (~15 min, ~$4) or taxi (~$14). Entry at the door.",
         howto: "Bus #14 from city centre (~15 min) or taxi", price: "~$20 pp entry", prebook: false,
         link: "https://atlanterhavsparken.no",
-        thumb: "/images/Ålesund2 Large.jpeg",
+        thumb: "/images/Alesund2 Large.jpeg",
       },
     ],
     hiking: [
       {
         name: "Mount Aksla (418 Steps)",
         difficulty: "Easy", distance: "2 km", time: "45 min–1 hr",
-        desc: "Free, iconic, starts at Byparken park. Two viewing platforms with the famous panoramic city view. The definitive Ålesund experience.",
+        desc: "Free, iconic, starts at Byparken park. Two viewing platforms with the famous panoramic city view. The definitive Alesund  experience.",
         alltrails: "https://www.alltrails.com/trail/norway/more-og-romsdal/mount-aksla",
-        thumb: "/images/Ålesund Large.jpeg",
+        thumb: "/images/Alesund Large.jpeg",
       },
       {
         name: "Sukkertoppen (Sugar Top)",
         difficulty: "Moderate–Hard", distance: "5 km", time: "2 hrs",
         desc: "Harder and longer than Aksla. Rewards with a 360° view of town, fjords, and open sea. Requires a bus or taxi to the trailhead.",
         alltrails: "https://www.alltrails.com/trail/norway/more-og-romsdal/sukkertoppen-alesund",
-        thumb: "/images/Ålesund2 Large.jpeg",
+        thumb: "/images/Alesund2 Large.jpeg",
       },
     ],
     tips: [
@@ -1029,19 +1029,19 @@ const PORTS = [
     tender: "possible",
     historicBlurb: "Only 10% of Iceland's visitors ever reach the Westfjords — making your stop here genuinely rare. Ísafjörður has been inhabited since the 9th century, and was an important trading post whose 18th-century timber-frame buildings still stand at the Heritage Museum. The Westfjords are geologically the oldest part of Iceland (16 million years), with fjords so deep the sun disappears entirely for months during winter.",
     carousel: [
-      "/images/Ísafjörður Large.jpeg",
+      "/images/Isafjordur Large.jpeg",
     ],
     excursions: [
       {
         name: "Around the Walls (Borea Adventures) ✅ BOOKED",
         type: "Walking", badge: "must-do",
-        desc: "CONFIRMED · Booking BAD-T130991303 · 2 participants · 9:30am–12:00pm (2.5 hours). A guided walk around the old town walls and historic waterfront of Ísafjörður with Borea Adventures — specialists in Westfjords experiences.",
+        desc: "CONFIRMED · Booking BAD-T130991303 · 2 participants · 9:30am–12:00pm (2.5 hours). A guided walk around the old town walls and historic waterfront of Isafjordur with Borea Adventures — specialists in Westfjords experiences.",
         howto: "Meeting point: Borea Adventures outdoor base, Mávagarður C, grey building, 400 Ísafjörður. Contact: info@borea.is · boreaadventures.com",
         price: "✅ Paid · Booking BAD-T130991303", prebook: true,
         link: "https://www.boreaadventures.com",
         mapsUrl: "https://maps.google.com/?q=3VCM%2B4V+%C3%8Dsafj%C3%B6r%C3%B0ur,+Iceland",
         mapsLabel: "📍 Borea Adventures, Mávagarður C, grey building",
-        thumb: "/images/Ísafjörður Large.jpeg",
+        thumb: "/images/Isafjordur Large.jpeg",
       },
       {
         name: "Dynjandi Waterfall",
@@ -1049,7 +1049,7 @@ const PORTS = [
         desc: "'Jewel of the Westfjords' — a 100m tiered cascade fanning out like a bridal veil, with 7 smaller falls below it. 1-hour drive each way on winding Westfjords roads. ~5–6 hours total. Tour required — not suitable for DIY without a rental car and confidence on mountain roads.",
         howto: "Guided tour required (no public transit)", price: "~$140 pp", prebook: true,
         link: "https://www.iceland-highlights.com/isafjordur-shore-excursions/",
-        thumb: "/images/Ísafjörður2 Large.jpeg",
+        thumb: "/images/Isafjordur2 Large.jpeg",
       },
     ],
     hiking: [
@@ -1058,14 +1058,14 @@ const PORTS = [
         difficulty: "Hard", distance: "12 km return", time: "4–5 hrs",
         desc: "The most famous local hike. Trailhead is ~3.7 miles (6 km) from town near the airport — most cruisers walk or bike the flat fjord road to get there. Once at the base, the climb is free and straight up (no switchbacks) with the best panoramic view of the town and your ship. Many rent bikes in town; one traveller recommends ordering a taxi to pick you up 1.5 hrs after starting — that timing was 'just right,' with time to explore the surprisingly large upper plateau.",
         alltrails: "https://www.alltrails.com/trail/iceland/vestfirdir/naustahvilft-troll-seat",
-        thumb: "/images/Ísafjörður Large.jpeg",
+        thumb: "/images/Isafjordur Large.jpeg",
       },
       {
         name: "Búnarfoss Waterfall Walk",
         difficulty: "Easy", distance: "5 km", time: "1.5 hrs",
         desc: "Through the Tungudalur Valley from town. Walk or taxi to the campground, then follow the waterfall uphill. Great views, almost no crowds.",
         alltrails: "https://www.alltrails.com/trail/iceland/vestfirdir/bunarfoss-waterfall",
-        thumb: "/images/Ísafjörður Large.jpeg",
+        thumb: "/images/Isafjordur Large.jpeg",
       },
     ],
     tips: [
@@ -1090,8 +1090,8 @@ const PORTS = [
     tender: "confirmed",
     historicBlurb: "Grundarfjörður is a fishing village of ~960 people on the north shore of the Snæfellsnes Peninsula — 'Iceland in Miniature.' Kirkjufell ('Church Mountain'), visible directly from the pier, is Iceland's most photographed peak and appeared as the 'Arrowhead Mountain' in Game of Thrones Season 7. The nearby Snæfellsjökull glacier-volcano inspired Jules Verne's Journey to the Centre of the Earth.",
     carousel: [
-      "/images/Grundarfjörður Large.jpeg",
-      "/images/Grundarfjörður 2 Large.jpeg",
+      "/images/Grundarfjordur Large.jpeg",
+      "/images/Grundarfjordur 2 Large.jpeg",
     ],
     excursions: [
       {
@@ -1103,7 +1103,7 @@ const PORTS = [
         link: "https://www.iceland-highlights.com/grundarfjordur-shore-excursions/",
         mapsUrl: "https://maps.google.com/?q=Grundarfj%C3%B6r%C3%B0ur+Harbour,+350+Grundarfj%C3%B6r%C3%B0ur,+Iceland",
         mapsLabel: "📍 Grundarfjörður cruise terminal/harbour parking lot",
-        thumb: "/images/Grundarfjörður 2 Large.jpeg",
+        thumb: "/images/Grundarfjordur 2 Large.jpeg",
       },
       {
         name: "Walk to Kirkjufellsfoss 🎬",
@@ -1111,7 +1111,7 @@ const PORTS = [
         desc: "TENDER PORT — take the small boat to shore first. Walk 40 min each way on mostly level gravel path. Game of Thrones filming location. Horses graze alongside the path. No toilets at the site — plan accordingly. The 'Kirkjufell Express' yellow shuttle (~$16) runs sometimes, but don't rely on it.",
         howto: "Tender to shore, then walk 40 min each way", price: "Free", prebook: false,
         link: null,
-        thumb: "/images/Grundarfjörður Large.jpeg",
+        thumb: "/images/Grundarfjordur Large.jpeg",
       },
     ],
     hiking: [
@@ -1120,14 +1120,14 @@ const PORTS = [
         difficulty: "Easy", distance: "3 km", time: "1.5 hrs",
         desc: "From tender landing to the iconic waterfall and mountain composition. Gravel paths, one steep section near the falls. Horses on the path. Iceland's most-photographed view. No toilets at the site.",
         alltrails: "https://www.alltrails.com/trail/iceland/vesturland/kirkjufellsfoss-loop",
-        thumb: "/images/Grundarfjörður Large.jpeg",
+        thumb: "/images/Grundarfjordur Large.jpeg",
       },
       {
         name: "Mt. Helgafell — Wish Mountain",
         difficulty: "Easy", distance: "2 km", time: "45 min",
         desc: "73m sacred hill: legend says if you climb to the top without speaking or looking back, your three wishes come true. Quick, easy, beautiful views. Near Stykkishólmur.",
         alltrails: "https://www.alltrails.com/trail/iceland/vesturland/helgafell",
-        thumb: "/images/Grundarfjörður 2 Large.jpeg",
+        thumb: "/images/Grundarfjordur 2 Large.jpeg",
       },
     ],
     tips: [
@@ -1151,7 +1151,7 @@ const PORTS = [
     heroColor: T.blueDark,
     historicBlurb: "Reykjavík was founded in 874 AD by Norse settler Ingólfr Arnarson — the name means 'Bay of Smokes' for the geothermal steam he spotted on arrival. The city sits on two tectonic plates slowly pulling apart; you can literally stand with one foot in North America and one in Europe at Þingvellir, 45 minutes away. Iceland has no standing army, no mosquitoes, no snakes, and hasn't had a McDonald's since 2009.",
     carousel: [
-      "/images/Reykjavík1 Large.jpeg",
+      "/images/Reykjavik1 Large.jpeg",
     ],
     excursions: [
       {
@@ -1163,7 +1163,7 @@ const PORTS = [
         link: "https://citywalk.is/tour/free-walking-tour-reykjavik/",
         mapsUrl: "https://maps.google.com/?q=Harpa+Concert+Hall,+Reykjav%C3%ADk,+Iceland",
         mapsLabel: "📍 Old Harbour area, near Harpa",
-        thumb: "/images/Reykjavík2 Large.jpeg",
+        thumb: "/images/Reykjavik2 Large.jpeg",
         note: "GuruWalk fallback: https://www.guruwalk.com/walks/49579 — 4 people booked. Cancel once citywalk.is is secured.",
       },
       {
@@ -1172,7 +1172,7 @@ const PORTS = [
         desc: "Þingvellir National Park (UNESCO + stand between tectonic plates), Strokkur geyser (erupts every 5–10 min), and Gullfoss waterfall. 6–8 hours, leaving time to explore the city independently. Book direct with Iceland Highlights or similar — 20–40% cheaper than cruise line pricing. Departs near the Old Harbour.",
         howto: "Book direct — bus picks up at Old Harbour", price: "~$85–$115 pp", prebook: true,
         link: "https://www.iceland-highlights.com/iceland-excursions-from-reykjavik/",
-        thumb: "/images/Reykjavík1 Large.jpeg",
+        thumb: "/images/Reykjavik1 Large.jpeg",
       },
     ],
     hiking: [
@@ -1181,7 +1181,7 @@ const PORTS = [
         difficulty: "Easy", distance: "5 km", time: "1.5–2 hrs",
         desc: "Walk the rift between North American and Eurasian tectonic plates. UNESCO World Heritage Site — part of the Golden Circle tour, no extra effort needed.",
         alltrails: "https://www.alltrails.com/trail/iceland/sudurland/thingvellir-national-park-trail",
-        thumb: "/images/Reykjavík1 Large.jpeg",
+        thumb: "/images/Reykjavik1 Large.jpeg",
       },
     ],
     tips: [
