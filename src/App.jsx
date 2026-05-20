@@ -745,9 +745,9 @@ const PORTS = [
     heroColor: T.tealDark,
     historicBlurb: "Haugesund is where Norway was born. In 872 AD, King Harald Fairhair unified all of Norway after the Battle of Hafrsfjord — and the country's very name comes from a shipping lane here called 'Way to the North.' The burial mound of Harald Fairhair, Haraldshaugen, still stands north of town, marked by a towering obelisk erected exactly one thousand years later in 1872.",
     carousel: [
-      "/images/haugesund-1.webp",
-      "/images/haugesund-2.webp",
-      "/images/haugesund-3.webp",
+      "/images/Haugesund Large.jpeg",
+      "/images/Haugesund2 Large.jpeg",
+      "/images/Haugesund3 Large.jpeg",
     ],
     excursions: [
       {
@@ -756,7 +756,7 @@ const PORTS = [
         desc: "Walk the ground of Norway's first king. Reconstructed Viking settlement on Bukkøy Island with live demos, medieval church, and the Nordvegen History Centre. Bus 208/209/210 from town (~20 min) then a 20-min walk — totally DIY.",
         howto: "DIY via bus 208/209/210", price: "Entry fee only (~$18–$28 pp)", prebook: false,
         link: "https://www.getyourguide.com/haugesund-l97819/",
-        thumb: "/images/thumb-avaldsnes.webp",
+        thumb: "/images/Haugesund Large.jpeg",
       },
       {
         name: "Langfoss Waterfall & Åkrafjorden",
@@ -764,7 +764,7 @@ const PORTS = [
         desc: "CNN-voted one of the world's most beautiful waterfalls — 600m plunge straight into the fjord. No public transit; requires a guided coach tour, small-group electric minivan (max 8 pax), or self-drive rental. ⚠️ Jun 29 is a Monday — the trail hike alongside the falls is NOT open weekdays until after 5:30pm. The drive-by and fjord view of the falls is still spectacular.",
         howto: "Tour or self-drive required (no transit)", price: "~$109 pp (coach) · ~$120 pp (small group)", prebook: true,
         link: "https://www.getyourguide.com/etne-l207730/from-haugesund-langfoss-waterfall-small-group-tour-t1260836/",
-        thumb: "/images/thumb-langfoss.webp",
+        thumb: "/images/Haugesund2 Large.jpeg",
       },
       {
         name: "Haugesund City Walking Tour",
@@ -772,7 +772,7 @@ const PORTS = [
         desc: "Self-guided walk from the pier taking in the pedestrian main street, Haraldshaugen burial mound, and Vår Frelsers Kirke (Our Saviour's Church) — a beautiful red-brick church with a steeple visible from anywhere in town. Entrance is free. Allow 2–3 hours at a leisurely pace.",
         howto: "100% DIY — walk from the pier", price: "Free", prebook: false,
         link: null,
-        thumb: "/images/haugesund-1.webp",
+        thumb: "/images/Haugesund Large.jpeg",
       },
     ],
     hiking: [
@@ -781,14 +781,14 @@ const PORTS = [
         difficulty: "Easy", distance: "10 km", time: "~2 hrs each way",
         desc: "Grab a map at the visitor centre when you get off the ship. The coastal path passes Haraldshaugen, Kvalen lighthouse, picnic tables, and the famous Rising Tides sculptures. About an hour each way at a comfortable pace. Toilets along the route. Bring snacks! Note: e-bikes available for rent in town (min height 158cm) — a great way to cover more ground.",
         alltrails: "https://www.alltrails.com/trail/norway/rogaland/kyststien-coastal-path-haugesund",
-        thumb: "/images/haugesund-3.webp",
+        thumb: "/images/Haugesund3 Large.jpeg",
       },
       {
         name: "Steinsfjellet Summit",
         difficulty: "Moderate", distance: "15 km", time: "3–4 hrs",
         desc: "Most elevation gain of any trail in the area (1,545 ft). Panoramic views over Haugesund and the surrounding archipelago from the summit.",
         alltrails: "https://www.alltrails.com/trail/norway/rogaland/steinsfjellet-from-haugesund-ferry-quay",
-        thumb: "/images/haugesund-2.webp",
+        thumb: "/images/Haugesund2 Large.jpeg",
       },
     ],
     tips: [
@@ -812,9 +812,9 @@ const PORTS = [
     heroColor: T.tealDark,
     historicBlurb: "Skjolden sits at the very end of Sognefjord — Norway's longest fjord at 204km, nicknamed 'King of the Fjords.' The 4-hour sail-in is considered one of the most scenic cruise experiences in the world. The nearby Urnes Stave Church (UNESCO, 12th century) blends Viking and early Christian wood carvings unlike anything else in Scandinavia. Philosopher Ludwig Wittgenstein wrote parts of his Tractatus in a remote cabin here.",
     carousel: [
-      "/images/skjolden-1.webp",
-      "/images/skjolden-2.webp",
-      "/images/skjolden-3.webp",
+      "/images/Skjolden Large.jpeg",
+      "/images/Skjolden2 Large.jpeg",
+      "/images/Skjolden3 Large.jpeg",
     ],
     excursions: [
       {
@@ -823,7 +823,7 @@ const PORTS = [
         desc: "Adventure Tours Norway sit right at the pier. RIB up the Sognefjord, then rent bikes and ride to Fortun. 'Best way to see the Sognefjord' say reviewers. Book at the dock or in advance.",
         howto: "Departs from the pier — no transport needed", price: "~$110–$140 pp for RIB; bike rental ~$18–$37 extra", prebook: true,
         link: "https://www.adventuretoursno.com",
-        thumb: "/images/skjolden-1.webp",
+        thumb: "/images/Skjolden Large.jpeg",
       },
       {
         name: "Urnes Stave Church",
@@ -831,7 +831,7 @@ const PORTS = [
         desc: "UNESCO-listed 12th-century church accessible by a short RIB or ferry across the fjord from Solvorn (~20 min by taxi). Intricate carvings blending Viking mythology and early Christian imagery — unlike anything else in Scandinavia.",
         howto: "Taxi to Solvorn (~20 min) + short ferry across", price: "Ferry ~$7 + church entry ~$11 pp", prebook: false,
         link: null,
-        thumb: "/images/thumb-stave-church.webp",
+        thumb: "/images/Skjolden Large.jpeg",
       },
     ],
     hiking: [
@@ -840,7 +840,7 @@ const PORTS = [
         difficulty: "Moderate", distance: "2 km", time: "45–60 min",
         desc: "One of Norway's tallest waterfalls at 715 feet. Well-marked trail with ~150m elevation gain. Bikes available from Adventure Tours Norway to reach the trailhead.",
         alltrails: "https://www.alltrails.com/trail/norway/vestland/feigumfossen-waterfall",
-        thumb: "/images/skjolden-2.webp",
+        thumb: "/images/Skjolden2 Large.jpeg",
       },
     ],
     tips: [
@@ -863,9 +863,9 @@ const PORTS = [
     tender: "confirmed",
     historicBlurb: "Olden sits beneath Jostedalsbreen — Europe's largest glacier at 487 square kilometres. The valley to Briksdalsbreen passes the eerily turquoise Oldevatnet lake, coloured by glacial meltwater. American landscape painter William Henry Singer made Olden his home in the early 1900s, inspired by its beauty.",
     carousel: [
-      "/images/olden-1.webp",
-      "/images/olden-2.webp",
-      "/images/olden-3.webp",
+      "/images/Olden Large.jpeg",
+      "/images/Olden2 Large.jpeg",
+      "/images/Olden3 Large.jpeg",
     ],
     excursions: [
       {
@@ -877,7 +877,7 @@ const PORTS = [
         link: "https://www.oldenadventure.no",
         mapsUrl: "https://maps.google.com/?q=Olden+Adventure+Glacier+Shuttle,+6792+Olden,+Norway",
         mapsLabel: "📍 Olden Adventure Office, on the pier",
-        thumb: "/images/olden-1.webp",
+        thumb: "/images/Olden Large.jpeg",
       },
     ],
     hiking: [
@@ -886,14 +886,14 @@ const PORTS = [
         difficulty: "Easy–Moderate", distance: "6 km", time: "2–2.5 hrs",
         desc: "The classic walk to the glacier face. Paved but moderately steep in places. Kleivafossen waterfall en route. Stunning the entire way — one of the best hikes in all of Norway.",
         alltrails: "https://www.alltrails.com/trail/norway/vestland/briksdal-glacier",
-        thumb: "/images/olden-2.webp",
+        thumb: "/images/Olden2 Large.jpeg",
       },
       {
         name: "Huaren on Auflem Mountain",
         difficulty: "Moderate", distance: "4 km", time: "2.5 hrs",
         desc: "From Olden port straight up to 400m. Stunning views over Nordfjord and the villages of Olden and Loen. 90 min up, 60 min down.",
         alltrails: "https://www.alltrails.com/trail/norway/vestland/huaren-auflem",
-        thumb: "/images/olden-3.webp",
+        thumb: "/images/Olden3 Large.jpeg",
       },
     ],
     tips: [
@@ -916,8 +916,8 @@ const PORTS = [
     heroColor: T.tealDark,
     historicBlurb: "On the night of 23 January 1904, a fire swept through Ålesund and destroyed nearly the entire town, leaving 10,000 people homeless in winter. Kaiser Wilhelm II of Germany sent immediate aid. Young Norwegian architects redesigned the city in just three years, creating the world's largest and most coherent collection of Art Nouveau architecture — over 400 buildings still standing today.",
     carousel: [
-      "/images/alesund-1.webp",
-      "/images/alesund-2.webp",
+      "/images/Ålesund Large.jpeg",
+      "/images/Ålesund2 Large.jpeg",
     ],
     excursions: [
       {
@@ -926,7 +926,7 @@ const PORTS = [
         desc: "418 steps, completely FREE, 1km from the ship. The iconic panoramic view of Ålesund spread across its islands. Do this first — it sets the tone for the whole day. No booking, no cost, no transport needed.",
         howto: "Walk 1km from pier to Byparken, then climb", price: "Free", prebook: false,
         link: null,
-        thumb: "/images/alesund-1.webp",
+        thumb: "/images/Ålesund Large.jpeg",
       },
       {
         name: "Atlantic Sea Park (Atlanterhavsparken)",
@@ -934,7 +934,7 @@ const PORTS = [
         desc: "One of Northern Europe's largest saltwater aquariums. Seals, penguins, otters, and touch tanks. ~5.5km from port — take local bus #14 from the city centre (~15 min, ~$4) or taxi (~$14). Entry at the door.",
         howto: "Bus #14 from city centre (~15 min) or taxi", price: "~$20 pp entry", prebook: false,
         link: "https://atlanterhavsparken.no",
-        thumb: "/images/alesund-2.webp",
+        thumb: "/images/Ålesund2 Large.jpeg",
       },
     ],
     hiking: [
@@ -943,14 +943,14 @@ const PORTS = [
         difficulty: "Easy", distance: "2 km", time: "45 min–1 hr",
         desc: "Free, iconic, starts at Byparken park. Two viewing platforms with the famous panoramic city view. The definitive Ålesund experience.",
         alltrails: "https://www.alltrails.com/trail/norway/more-og-romsdal/mount-aksla",
-        thumb: "/images/alesund-1.webp",
+        thumb: "/images/Ålesund Large.jpeg",
       },
       {
         name: "Sukkertoppen (Sugar Top)",
         difficulty: "Moderate–Hard", distance: "5 km", time: "2 hrs",
         desc: "Harder and longer than Aksla. Rewards with a 360° view of town, fjords, and open sea. Requires a bus or taxi to the trailhead.",
         alltrails: "https://www.alltrails.com/trail/norway/more-og-romsdal/sukkertoppen-alesund",
-        thumb: "/images/alesund-2.webp",
+        thumb: "/images/Ålesund2 Large.jpeg",
       },
     ],
     tips: [
@@ -975,9 +975,9 @@ const PORTS = [
     heroColor: T.blueDark,
     historicBlurb: "Akureyri is Iceland's second city — just 20,000 people at the head of Eyjafjörður, the country's longest fjord at 70km. The Akureyrarkirkja church has a ship suspended from its ceiling, a Norse tradition of praying for sailors at sea. Goðafoss ('Waterfall of the Gods') is 30 minutes away and marks the pivotal moment in 1000 AD when Iceland's Lawspeaker threw his pagan idols into the falls upon the country's conversion to Christianity.",
     carousel: [
-      "/images/akureyri-1.webp",
-      "/images/akureyri-2.webp",
-      "/images/akureyri-3.webp",
+      "/images/Akureyri.png",
+      "/images/Akureyri2.png",
+      "/images/Akureyri3.png",
     ],
     excursions: [
       {
@@ -989,7 +989,7 @@ const PORTS = [
         link: "https://elding.is/tours/whale-watching",
         mapsUrl: "https://maps.google.com/?q=65.683278,-18.085306",
         mapsLabel: "📍 Elding, Oddeyrarbót 2, Akureyri",
-        thumb: "/images/akureyri-1.webp",
+        thumb: "/images/Akureyri.png",
       },
       {
         name: "Goðafoss Waterfall",
@@ -997,7 +997,7 @@ const PORTS = [
         desc: "The 'Waterfall of the Gods' — just 30 min from port on Route 1. No public bus on cruise timings; take the Iceland Highlights shuttle (~$35) or rent a car. Pair with whale watching perfectly: whales in the morning, Goðafoss at 2:30pm, back to ship with time to spare.",
         howto: "Iceland Highlights shuttle or self-drive (Route 1)", price: "~$35 pp (shuttle) · free with rental car", prebook: true,
         link: "https://www.iceland-highlights.com/tour/godafoss-express-shuttle/",
-        thumb: "/images/akureyri-2.webp",
+        thumb: "/images/Akureyri2.png",
       },
     ],
     hiking: [
@@ -1006,7 +1006,7 @@ const PORTS = [
         difficulty: "Easy", distance: "2 km", time: "1 hr",
         desc: "Walk the lava rock rim around the horseshoe falls. Multiple viewpoints on both banks — especially dramatic in morning light. Best combined with the shuttle tour.",
         alltrails: "https://www.alltrails.com/trail/iceland/norourland-eystra/godafoss-waterfall-trail",
-        thumb: "/images/akureyri-3.webp",
+        thumb: "/images/Akureyri3.png",
       },
     ],
     tips: [
@@ -1029,7 +1029,7 @@ const PORTS = [
     tender: "possible",
     historicBlurb: "Only 10% of Iceland's visitors ever reach the Westfjords — making your stop here genuinely rare. Ísafjörður has been inhabited since the 9th century, and was an important trading post whose 18th-century timber-frame buildings still stand at the Heritage Museum. The Westfjords are geologically the oldest part of Iceland (16 million years), with fjords so deep the sun disappears entirely for months during winter.",
     carousel: [
-      "/images/isafjordur-1.webp",
+      "/images/Ísafjörður Large.jpeg",
     ],
     excursions: [
       {
@@ -1041,7 +1041,7 @@ const PORTS = [
         link: "https://www.boreaadventures.com",
         mapsUrl: "https://maps.google.com/?q=3VCM%2B4V+%C3%8Dsafj%C3%B6r%C3%B0ur,+Iceland",
         mapsLabel: "📍 Borea Adventures, Mávagarður C, grey building",
-        thumb: "/images/isafjordur-1.webp",
+        thumb: "/images/Ísafjörður Large.jpeg",
       },
       {
         name: "Dynjandi Waterfall",
@@ -1049,7 +1049,7 @@ const PORTS = [
         desc: "'Jewel of the Westfjords' — a 100m tiered cascade fanning out like a bridal veil, with 7 smaller falls below it. 1-hour drive each way on winding Westfjords roads. ~5–6 hours total. Tour required — not suitable for DIY without a rental car and confidence on mountain roads.",
         howto: "Guided tour required (no public transit)", price: "~$140 pp", prebook: true,
         link: "https://www.iceland-highlights.com/isafjordur-shore-excursions/",
-        thumb: "/images/thumb-isafjordur.webp",
+        thumb: "/images/Ísafjörður2 Large.jpeg",
       },
     ],
     hiking: [
@@ -1058,14 +1058,14 @@ const PORTS = [
         difficulty: "Hard", distance: "12 km return", time: "4–5 hrs",
         desc: "The most famous local hike. Trailhead is ~3.7 miles (6 km) from town near the airport — most cruisers walk or bike the flat fjord road to get there. Once at the base, the climb is free and straight up (no switchbacks) with the best panoramic view of the town and your ship. Many rent bikes in town; one traveller recommends ordering a taxi to pick you up 1.5 hrs after starting — that timing was 'just right,' with time to explore the surprisingly large upper plateau.",
         alltrails: "https://www.alltrails.com/trail/iceland/vestfirdir/naustahvilft-troll-seat",
-        thumb: "/images/isafjordur-1.webp",
+        thumb: "/images/Ísafjörður Large.jpeg",
       },
       {
         name: "Búnarfoss Waterfall Walk",
         difficulty: "Easy", distance: "5 km", time: "1.5 hrs",
         desc: "Through the Tungudalur Valley from town. Walk or taxi to the campground, then follow the waterfall uphill. Great views, almost no crowds.",
         alltrails: "https://www.alltrails.com/trail/iceland/vestfirdir/bunarfoss-waterfall",
-        thumb: "/images/isafjordur-1.webp",
+        thumb: "/images/Ísafjörður Large.jpeg",
       },
     ],
     tips: [
@@ -1090,8 +1090,8 @@ const PORTS = [
     tender: "confirmed",
     historicBlurb: "Grundarfjörður is a fishing village of ~960 people on the north shore of the Snæfellsnes Peninsula — 'Iceland in Miniature.' Kirkjufell ('Church Mountain'), visible directly from the pier, is Iceland's most photographed peak and appeared as the 'Arrowhead Mountain' in Game of Thrones Season 7. The nearby Snæfellsjökull glacier-volcano inspired Jules Verne's Journey to the Centre of the Earth.",
     carousel: [
-      "/images/grundarfjordur-1.webp",
-      "/images/grundarfjordur-2.webp",
+      "/images/Grundarfjörður Large.jpeg",
+      "/images/Grundarfjörður 2 Large.jpeg",
     ],
     excursions: [
       {
@@ -1103,7 +1103,7 @@ const PORTS = [
         link: "https://www.iceland-highlights.com/grundarfjordur-shore-excursions/",
         mapsUrl: "https://maps.google.com/?q=Grundarfj%C3%B6r%C3%B0ur+Harbour,+350+Grundarfj%C3%B6r%C3%B0ur,+Iceland",
         mapsLabel: "📍 Grundarfjörður cruise terminal/harbour parking lot",
-        thumb: "/images/grundarfjordur-2.webp",
+        thumb: "/images/Grundarfjörður 2 Large.jpeg",
       },
       {
         name: "Walk to Kirkjufellsfoss 🎬",
@@ -1111,7 +1111,7 @@ const PORTS = [
         desc: "TENDER PORT — take the small boat to shore first. Walk 40 min each way on mostly level gravel path. Game of Thrones filming location. Horses graze alongside the path. No toilets at the site — plan accordingly. The 'Kirkjufell Express' yellow shuttle (~$16) runs sometimes, but don't rely on it.",
         howto: "Tender to shore, then walk 40 min each way", price: "Free", prebook: false,
         link: null,
-        thumb: "/images/grundarfjordur-1.webp",
+        thumb: "/images/Grundarfjörður Large.jpeg",
       },
     ],
     hiking: [
@@ -1120,14 +1120,14 @@ const PORTS = [
         difficulty: "Easy", distance: "3 km", time: "1.5 hrs",
         desc: "From tender landing to the iconic waterfall and mountain composition. Gravel paths, one steep section near the falls. Horses on the path. Iceland's most-photographed view. No toilets at the site.",
         alltrails: "https://www.alltrails.com/trail/iceland/vesturland/kirkjufellsfoss-loop",
-        thumb: "/images/grundarfjordur-1.webp",
+        thumb: "/images/Grundarfjörður Large.jpeg",
       },
       {
         name: "Mt. Helgafell — Wish Mountain",
         difficulty: "Easy", distance: "2 km", time: "45 min",
         desc: "73m sacred hill: legend says if you climb to the top without speaking or looking back, your three wishes come true. Quick, easy, beautiful views. Near Stykkishólmur.",
         alltrails: "https://www.alltrails.com/trail/iceland/vesturland/helgafell",
-        thumb: "/images/grundarfjordur-2.webp",
+        thumb: "/images/Grundarfjörður 2 Large.jpeg",
       },
     ],
     tips: [
@@ -1151,7 +1151,7 @@ const PORTS = [
     heroColor: T.blueDark,
     historicBlurb: "Reykjavík was founded in 874 AD by Norse settler Ingólfr Arnarson — the name means 'Bay of Smokes' for the geothermal steam he spotted on arrival. The city sits on two tectonic plates slowly pulling apart; you can literally stand with one foot in North America and one in Europe at Þingvellir, 45 minutes away. Iceland has no standing army, no mosquitoes, no snakes, and hasn't had a McDonald's since 2009.",
     carousel: [
-      "/images/reykjavik-1.webp",
+      "/images/Reykjavík1 Large.jpeg",
     ],
     excursions: [
       {
@@ -1163,7 +1163,7 @@ const PORTS = [
         link: "https://citywalk.is/tour/free-walking-tour-reykjavik/",
         mapsUrl: "https://maps.google.com/?q=Harpa+Concert+Hall,+Reykjav%C3%ADk,+Iceland",
         mapsLabel: "📍 Old Harbour area, near Harpa",
-        thumb: "/images/thumb-reykjavik-walk.webp",
+        thumb: "/images/Reykjavík2 Large.jpeg",
         note: "GuruWalk fallback: https://www.guruwalk.com/walks/49579 — 4 people booked. Cancel once citywalk.is is secured.",
       },
       {
@@ -1172,7 +1172,7 @@ const PORTS = [
         desc: "Þingvellir National Park (UNESCO + stand between tectonic plates), Strokkur geyser (erupts every 5–10 min), and Gullfoss waterfall. 6–8 hours, leaving time to explore the city independently. Book direct with Iceland Highlights or similar — 20–40% cheaper than cruise line pricing. Departs near the Old Harbour.",
         howto: "Book direct — bus picks up at Old Harbour", price: "~$85–$115 pp", prebook: true,
         link: "https://www.iceland-highlights.com/iceland-excursions-from-reykjavik/",
-        thumb: "/images/reykjavik-1.webp",
+        thumb: "/images/Reykjavík1 Large.jpeg",
       },
     ],
     hiking: [
@@ -1181,7 +1181,7 @@ const PORTS = [
         difficulty: "Easy", distance: "5 km", time: "1.5–2 hrs",
         desc: "Walk the rift between North American and Eurasian tectonic plates. UNESCO World Heritage Site — part of the Golden Circle tour, no extra effort needed.",
         alltrails: "https://www.alltrails.com/trail/iceland/sudurland/thingvellir-national-park-trail",
-        thumb: "/images/reykjavik-1.webp",
+        thumb: "/images/Reykjavík1 Large.jpeg",
       },
     ],
     tips: [
@@ -1790,14 +1790,14 @@ function ExcursionsContent() {
 }
 
 const DECK_IMAGES = {
-  "deck-4": "/images/deck-4.webp",
-  "deck-5": "/images/deck-5.webp",
-  "deck-6": "/images/deck-6.webp",
-  "deck-7": "/images/deck-7.webp",
-  "deck-16": "/images/deck-16.webp",
-  "deck-17": "/images/deck-17.webp",
-  "deck-18": "/images/deck-18.webp",
-  "deck-19": "/images/deck-19.webp",
+  "deck-4": "/images/Deck 4.png",
+  "deck-5": "/images/Deck 5.png",
+  "deck-6": "/images/Deck 6.png",
+  "deck-7": "/images/Deck 7.png",
+  "deck-16": "/images/Deck 16.png",
+  "deck-17": "/images/Deck 17.png",
+  "deck-18": "/images/Deck 18.png",
+  "deck-19": "/images/Deck 19.png",
 };
 
 // ══════════════════════════════════════════════════════════════════════
