@@ -1091,7 +1091,7 @@ const PORTS = [
     historicBlurb: "Grundarfjörður is a fishing village of ~960 people on the north shore of the Snæfellsnes Peninsula — 'Iceland in Miniature.' Kirkjufell ('Church Mountain'), visible directly from the pier, is Iceland's most photographed peak and appeared as the 'Arrowhead Mountain' in Game of Thrones Season 7. The nearby Snæfellsjökull glacier-volcano inspired Jules Verne's Journey to the Centre of the Earth.",
     carousel: [
       "/images/Grundarfjordur Large.jpeg",
-      "/images/Grundarfjordur 2 Large.jpeg",
+      "/images/Grundarfjordur2 Large.jpeg",
     ],
     excursions: [
       {
@@ -1103,7 +1103,7 @@ const PORTS = [
         link: "https://www.iceland-highlights.com/grundarfjordur-shore-excursions/",
         mapsUrl: "https://maps.google.com/?q=Grundarfj%C3%B6r%C3%B0ur+Harbour,+350+Grundarfj%C3%B6r%C3%B0ur,+Iceland",
         mapsLabel: "📍 Grundarfjörður cruise terminal/harbour parking lot",
-        thumb: "/images/Grundarfjordur 2 Large.jpeg",
+        thumb: "/images/Grundarfjordur2 Large.jpeg",
       },
       {
         name: "Walk to Kirkjufellsfoss 🎬",
@@ -1127,7 +1127,7 @@ const PORTS = [
         difficulty: "Easy", distance: "2 km", time: "45 min",
         desc: "73m sacred hill: legend says if you climb to the top without speaking or looking back, your three wishes come true. Quick, easy, beautiful views. Near Stykkishólmur.",
         alltrails: "https://www.alltrails.com/trail/iceland/vesturland/helgafell",
-        thumb: "/images/Grundarfjordur 2 Large.jpeg",
+        thumb: "/images/Grundarfjordur2 Large.jpeg",
       },
     ],
     tips: [
