@@ -1790,14 +1790,14 @@ function ExcursionsContent() {
 }
 
 const DECK_IMAGES = {
-  "deck-4": "/images/Deck 4.png",
-  "deck-5": "/images/Deck 5.png",
-  "deck-6": "/images/Deck 6.png",
-  "deck-7": "/images/Deck 7.png",
-  "deck-16": "/images/Deck 16.png",
-  "deck-17": "/images/Deck 17.png",
-  "deck-18": "/images/Deck 18.png",
-  "deck-19": "/images/Deck 19.png",
+  "deck-4": "/images/deck-4.png",
+  "deck-5": "/images/deck-5.png",
+  "deck-6": "/images/deck-6.png",
+  "deck-7": "/images/deck-7.png",
+  "deck-16": "/images/deck-16.png",
+  "deck-17": "/images/deck-17.png",
+  "deck-18": "/images/deck-18.png",
+  "deck-19": "/images/deck-19.png",
 };
 
 // ══════════════════════════════════════════════════════════════════════
