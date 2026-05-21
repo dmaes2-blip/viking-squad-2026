@@ -140,6 +140,21 @@ const PACKING_SECTIONS = [
       { id: "db08", text: "Small first aid kit", note: "Plasters, blister pads, pain relief — especially for glacier/hike days" },
     ]
   },
+  {
+    id: "dj-private",
+    label: "🔒 D & J Private",
+    tip: "Only visible to D & J. Items below are for your eyes only!",
+    private: true,
+    items: [
+      { id: "dj01", text: "Shower scrub towel", note: "" },
+      { id: "dj02", text: "Blokus", note: "" },
+      { id: "dj03", text: "Board games", note: "" },
+      { id: "dj04", text: "Foldable clothes hangers", note: "Extra hangers beyond the ship's terrible supply" },
+      { id: "dj05", text: "Ziplock bags", note: "Various sizes — always useful" },
+      { id: "dj06", text: "Tupperware", note: "For snacks from the buffet on port days" },
+      { id: "dj07", text: "Laundry pods", note: "For the ship launderette" },
+    ]
+  },
 ];
 
 // ══════════════════════════════════════════════════════════════════════
@@ -307,8 +322,7 @@ function PackingList({ onClose }) {
 
         {/* Sections */}
         <div style={{ padding: "12px 16px 24px", flex: 1 }}>
-          {PACKING_SECTIONS.map(section => {
-            const sectionChecked = section.items.filter(i => checked[i.id]).length;
+      {PACKING_SECTIONS.filter(s => !s.private || pinUnlocked).map(section => {            const sectionChecked = section.items.filter(i => checked[i.id]).length;
             const isOpen = openSections[section.id];
             return (
               <div key={section.id} style={{ marginBottom: 12, borderRadius: 14, overflow: "hidden",
