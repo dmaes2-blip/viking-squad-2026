@@ -1113,7 +1113,7 @@ excursions: [
         howto: "TENDER PORT — take the tender to shore first. Meeting point: directly at the Grundarfjörður cruise terminal/harbour parking lot (Norðurgarður, 350 Grundarfjörður). Guides meet passengers right by the ship on disembarkation — look for guides in black vests or light blue jackets, and a bus parked at the terminal.",
         price: "✅ Paid ISK 43,391 · IH-T130990181", prebook: true,
         link: "https://www.iceland-highlights.com/grundarfjordur-shore-excursions/",
-        mapsUrl: "https://maps.google.com/?q=Grundarfj%C3%B6r%C3%B0ur+Harbour,+350+Grundarfj%C3%B6r%C3%B0ur,+Iceland",
+        mapsUrl: "https://www.google.com/maps/place/Grundarfjar%C3%B0arh%C3%B6fn/@64.9252429,-23.2543465,355m/data=!3m1!1e3!4m6!3m5!1s0x48d57a471601c213:0x99a9639636902901!8m2!3d64.9253967!4d-23.2523283!16s%2Fg%2F11b724jx22",
         mapsLabel: "📍 Grundarfjörður cruise terminal/harbour parking lot",
         thumb: "/images/Grundarfjordur2 Large.jpeg",
       },
