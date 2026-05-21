@@ -1109,7 +1109,7 @@ excursions: [
       {
         name: "Snæfellsnes Peninsula Tour ✅ BOOKED",
         type: "Scenic", badge: "must-do",
-        desc: "CONFIRMED · Ticket IH-T130990181 · 2 adults · 8:00am start. 'Iceland in Miniature' — covers Kirkjufell + Djúpalónssandur black beach, Arnarstapi sea cliffs, Búðakirkja black church, and Snæfellsjökull glacier-volcano (inspiration for Jules Verne's Journey to the Centre of the Earth). Boarding time on ship: 6pm day before. Disembarkation: 7am.",
+        desc: "CONFIRMED · Ticket IH-T130990181 · 2 adults · 9:00am start. 'Iceland in Miniature' — covers Kirkjufell + Djúpalónssandur black beach, Arnarstapi sea cliffs, Búðakirkja black church, and Snæfellsjökull glacier-volcano (inspiration for Jules Verne's Journey to the Centre of the Earth). Boarding time on ship: 6pm day before. Disembarkation: 7am.",
         howto: "TENDER PORT — take the tender to shore first. Meeting point: directly at the Grundarfjörður cruise terminal/harbour parking lot (Norðurgarður, 350 Grundarfjörður). Guides meet passengers right by the ship on disembarkation — look for guides in black vests or light blue jackets, and a bus parked at the terminal.",
         price: "✅ Paid ISK 43,391 · IH-T130990181", prebook: true,
         link: "https://www.iceland-highlights.com/grundarfjordur-shore-excursions/",
