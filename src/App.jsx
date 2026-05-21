@@ -816,23 +816,36 @@ const PORTS = [
       "/images/Skjolden2 Large.jpeg",
       "/images/Skjolden3 Large.jpeg",
     ],
-    excursions: [
-      {
-        name: "RIB Boat + Bike Combo",
-        type: "Adventure", badge: "must-do",
-        desc: "Adventure Tours Norway sit right at the pier. RIB up the Sognefjord, then rent bikes and ride to Fortun. 'Best way to see the Sognefjord' say reviewers. Book at the dock or in advance.",
-        howto: "Departs from the pier — no transport needed", price: "~$110–$140 pp for RIB; bike rental ~$18–$37 extra", prebook: true,
-        link: "https://www.adventuretoursno.com",
-        thumb: "/images/Skjolden Large.jpeg",
-      },
-      {
-        name: "Urnes Stave Church",
-        type: "History", badge: null,
-        desc: "UNESCO-listed 12th-century church accessible by a short RIB or ferry across the fjord from Solvorn (~20 min by taxi). Intricate carvings blending Viking mythology and early Christian imagery — unlike anything else in Scandinavia.",
-        howto: "Taxi to Solvorn (~20 min) + short ferry across", price: "Ferry ~$7 + church entry ~$11 pp", prebook: false,
-        link: null,
-        thumb: "/images/Skjolden Large.jpeg",
-      },
+excursions: [
+  {
+    name: "E-Bike Rental — Full Day ✅ BOOKED",
+    type: "Adventure", badge: "must-do",
+    desc: "CONFIRMED · 2 bikes · 9:30am–7:00pm · Pickup at Skjolden Marina (400m from the cruise terminal). E-bikes are Trek UM3+ — perfect for the valley roads and gentle climbs. No guided routes needed — they provide a local map with options. Best route: Drivandefossen Waterfall Bike & Hike (scroll down the routes page). Helmet, light, and local map included.",
+    howto: "Walk 400m from the cruise terminal to Skjolden Marina — meet-up 15–20 min before 9:30am. No printed tickets needed.",
+    price: "✅ Paid · 2 × e-bike day rental", prebook: true,
+    link: "https://www.adventuretours.no/bicycle-rental/#drivandefossen",
+    linkLabel: "🚲 Bike Routes (scroll to Drivandefossen)",
+    mapsUrl: "https://www.google.com/maps/place/Adventure+Tours+Norway/@61.4854588,7.5970188,2121m/data=!3m1!1e3!4m6!3m5!1s0x4615957fe9f67157:0xa60cc0d9d273746!8m2!3d61.4841186!4d7.5984793!16s%2Fg%2F11bc7lpj1z",
+    mapsLabel: "📍 Skjolden Marina (400m from terminal)",
+    thumb: "/images/Skjolden Large.jpeg",
+  },
+  {
+    name: "RIB Boat + Fjord Cruise",
+    type: "Adventure", badge: null,
+    desc: "Adventure Tours Norway also runs RIB tours up the Sognefjord. If you have time after the bike ride, ask at the marina about availability. 'Best way to see the Sognefjord' say reviewers.",
+    howto: "Walk-up at Skjolden Marina", price: "~$110–$140 pp", prebook: false,
+    link: "https://www.adventuretoursno.com",
+    thumb: "/images/Skjolden Large.jpeg",
+  },
+  {
+    name: "Urnes Stave Church",
+    type: "History", badge: null,
+    desc: "UNESCO-listed 12th-century church accessible by a short ferry across the fjord from Solvorn (~20 min by taxi). Intricate carvings blending Viking mythology and early Christian imagery — unlike anything else in Scandinavia.",
+    howto: "Taxi to Solvorn (~20 min) + short ferry across", price: "Ferry ~$7 + church entry ~$11 pp", prebook: false,
+    link: null,
+    thumb: "/images/Skjolden Large.jpeg",
+  },
+],
     ],
     hiking: [
       {
