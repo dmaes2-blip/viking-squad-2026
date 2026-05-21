@@ -846,7 +846,6 @@ excursions: [
     thumb: "/images/Skjolden Large.jpeg",
   },
 ],
-    ],
     hiking: [
       {
         name: "Feigumfossen Waterfall Trail",
