@@ -1314,7 +1314,7 @@ function ExcursionRow({ ex, hc }) {
                 display: "inline-flex", alignItems: "center", gap: 4,
                 fontSize: 11, fontWeight: 700, color: hc, textDecoration: "none",
                 padding: "4px 11px", border: `1.5px solid ${hc}`, borderRadius: 999,
-              }}>Book / Info ↗</a>
+              }}>{ex.linkLabel || "Book / Info ↗"}</a>
             )}
           </div>
         )}
