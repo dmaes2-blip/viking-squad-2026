@@ -1300,7 +1300,8 @@ Stop 3 — Co-op Mega Kremmergaarden (Mid-Tier): Rasmus Rønnebergs gate 6, a fe
       {
         name: "Kirkjufellsfoss Loop",
         difficulty: "Easy", distance: "3 km", time: "1.5 hrs",
-desc: `From tender landing to the iconic waterfall and mountain composition. Gravel paths, one steep section near the falls. Horses on the path. Iceland's most-photographed view. No toilets at the site. If you choose to forgo the €15 "Kirkjufell Express" shuttle bus, it is a highly scenic, flat, and very manageable 1.85-mile (approx. 3 km) walk each way along the bay from the town center to the waterfalls.`,        alltrails: "https://www.alltrails.com/explore/trail/iceland/western/kirkjufellsfoss",
+        desc: "From tender landing to the iconic waterfall and mountain composition. Gravel paths, one steep section near the falls. Horses on the path. Iceland's most-photographed view. No toilets at the site. If you choose to forgo the €15 'Kirkjufell Express' shuttle bus, it is a highly scenic, flat, and very manageable 1.85-mile (approx. 3 km) walk each way along the bay from the town center to the waterfalls.",        
+        alltrails: "https://www.alltrails.com/trail/iceland/western/kirkjufellsfoss",
         thumb: "/images/Grundarfjordur Large.jpeg",
       },
       {
