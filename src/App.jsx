@@ -931,7 +931,7 @@ hiking: [
         name: "Briksdalsbreen Valley Trail",
         difficulty: "Easy–Moderate", distance: "6 km", time: "2–2.5 hrs",
         desc: "The classic walk to the glacier face. Paved but moderately steep in places. Kleivafossen waterfall en route. Stunning the entire way — one of the best hikes in all of Norway.",
-        alltrails: "https://www.alltrails.com/trail/norway/vestland/briksdal-glacier",
+        alltrails: "https://www.alltrails.com/trail/norway/sogn-og-fjordane/briksdalsbreen",
         thumb: "/images/Olden2 Large.jpeg",
       },
       {
