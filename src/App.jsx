@@ -878,7 +878,7 @@ hiking: [
     name: "Åsafossen Waterfall & Wittgenstein's Cabin Trail",
     difficulty: "Moderate", distance: "6–8 km", time: "2–2.5 hrs",
     desc: "Walk from the pier along the flat valley road heading east toward Fortun until you reach the powerful Åsafossen Waterfall viewing area. From there a clear trail climbs up the forested hillside to the remote location where Austrian philosopher Ludwig Wittgenstein built his quiet wooden cabin to work in total isolation overlooking the water.",
-    alltrails: "https://outtt.com/en/norway/skjolden/wittgenstein",
+    alltrails: "https://www.wikiloc.com/hiking-trails/skjolden-asafossen-waterfall-180614377",
     thumb: "/images/Skjolden3 Large.jpeg",
   },
   {
