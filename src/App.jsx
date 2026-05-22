@@ -864,7 +864,7 @@ hiking: [
     name: "Sengjaberget Utsiktspunkt — The Bedrock Viewpoint",
     difficulty: "Easy–Moderate", distance: "1.5 km", time: "45–60 min",
     desc: "Short but rewarding uphill hike winding up through trees and rocks right from the village center. Rises ~400 feet to a rocky outcrop with an unobstructed bird's-eye view looking straight down at the cruise ship terminal, the village, and the brilliant green waters of Eidsvatnet lake. Sturdy footwear recommended — rocks can be slick.",
-    alltrails: "alltrails: "https://www.alltrails.com/trail/norway/vestland/utsiktspunktet-sengjaberget",
+    alltrails: "https://www.alltrails.com/trail/norway/vestland/utsiktspunktet-sengjaberget",
     thumb: "/images/Skjolden Large.jpeg",
   },
   {
