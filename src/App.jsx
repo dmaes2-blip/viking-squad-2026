@@ -871,7 +871,7 @@ hiking: [
     name: "Eidsvatnet Lake & Mørkrid River Stroll",
     difficulty: "Easy", distance: "4–6 km", time: "1–2 hrs",
     desc: "Completely flat, very easy walking path wrapping around the scenic edges of Eidsvatnet Lake and the rushing glacier-fed Mørkrid River. Perfect for a peaceful stroll right off the pier with no steep climbing. Follow the flat valley road slightly inland along the river to pass the local Skjolden Llama Farm — llamas viewable right from the roadside path.",
-    alltrails: "https://outtt.com/en/norway/skjolden/morkrisdalen",
+    alltrails: "https://www.alltrails.com/trail/norway/vestland/sykkeltur-fra-skjolden-til-sognefjellshytten",
     thumb: "/images/Skjolden2 Large.jpeg",
   },
   {
