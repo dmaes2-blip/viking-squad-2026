@@ -983,6 +983,22 @@ hiking: [
         thumb: "/images/Alesund Large.jpeg",
       },
       {
+  name: "The Epic Scandinavian Pick-and-Mix (Smågodt) Run 🍬",
+  type: "Culture", badge: null,
+  desc: "A self-guided mission to satisfy a Scandinavian candy obsession using Ålesund's best high-turnover grocery bulk walls. Hunt for soft, fresh gummies — BUBS foam diamonds, Malaco candy fish, sour mixes — right in the walkable downtown core. ⚠️ These shops are open Mon–Sat but STRICTLY CLOSED on Sundays due to Norwegian trading laws. Jul 2 is a Thursday — you're good!\n\nStop 1 — REMA 1000 Strandgata (Budget): Nedre Strandgate 57. Fast-moving wall of bulk bins right on the waterfront. ~15–18 NOK per 100g (~150–180 NOK for a 1kg mega-haul).\n\nStop 2 — KIWI Nedre Strandgata (Budget): Nedre Strandgate 51 — practically next door. Ideal for double-checking variety and back-to-back bin hunting.\n\nStop 3 — Co-op Mega Kremmergaarden (Mid-Tier): Rasmus Rønnebergs gate 6, a few blocks inland. Larger selection wall with wider specialized imports. ~19–23 NOK per 100g.",
+  howto: "100% DIY — all three stops within easy walking distance of the pier",
+  price: "~150–230 NOK per kg depending on store",
+  prebook: false,
+  link: null,
+  mapsUrl: "https://maps.app.goo.gl/4NuSx5kEJA4kT6zj7",
+  mapsLabel: "📍 Stop 1 — REMA 1000 Strandgata",
+  mapsUrl2: "https://maps.app.goo.gl/UDGUtoQM4JukFRaM8",
+  mapsLabel2: "📍 Stop 2 — KIWI Nedre Strandgata",
+  mapsUrl3: "https://maps.app.goo.gl/jpVSZGYfaWWbDYGZ8",
+  mapsLabel3: "📍 Stop 3 — Co-op Mega Kremmergaarden",
+  thumb: "/images/Alesund Large.jpeg",
+},
+      {
   name: "Art Nouveau Architectural Spine — Self-Guided Walk",
   type: "Walking", badge: null,
   desc: "To see the best of Ålesund's unique Jugendstil architecture, stroll down three key downtown streets: Apotekergata, Olav Plass, and Kongens gate. Keep your eyes looking UP — the beauty is in the turrets, curved stone edges, and organic nature-inspired motifs carved into the facades. Every building tells a story of the 1904 fire and the extraordinary three-year rebuild that followed.",
@@ -1359,15 +1375,31 @@ function ExcursionRow({ ex, hc }) {
             {ex.prebook ? "✅ Pre-book" : "❌ Walk-up"}
           </span>
         </div>
-        {(ex.link || ex.mapsUrl) && (
-          <div style={{ display: "flex", flexWrap: "wrap", gap: 6, marginTop: 6 }}>
-            {ex.mapsUrl && (
-              <a href={ex.mapsUrl} target="_blank" rel="noopener noreferrer" style={{
-                display: "inline-flex", alignItems: "center", gap: 4,
-                fontSize: 11, fontWeight: 700, color: "#fff", textDecoration: "none",
-                padding: "5px 11px", background: "#1A73E8", borderRadius: 999,
-              }}>🗺 Open in Maps</a>
-            )}
+{(ex.mapsUrl || ex.mapsUrl2 || ex.mapsUrl3) && (
+  <div style={{ display: "flex", flexWrap: "wrap", gap: 6, marginTop: 6 }}>
+    {ex.mapsUrl && (
+      <a href={ex.mapsUrl} target="_blank" rel="noopener noreferrer" style={{
+        display: "inline-flex", alignItems: "center", gap: 4,
+        fontSize: 11, fontWeight: 700, color: "#fff", textDecoration: "none",
+        padding: "5px 11px", background: "#1A73E8", borderRadius: 999,
+      }}>{ex.mapsLabel || "🗺 Open in Maps"}</a>
+    )}
+    {ex.mapsUrl2 && (
+      <a href={ex.mapsUrl2} target="_blank" rel="noopener noreferrer" style={{
+        display: "inline-flex", alignItems: "center", gap: 4,
+        fontSize: 11, fontWeight: 700, color: "#fff", textDecoration: "none",
+        padding: "5px 11px", background: "#1A73E8", borderRadius: 999,
+      }}>{ex.mapsLabel2 || "🗺 Open in Maps"}</a>
+    )}
+    {ex.mapsUrl3 && (
+      <a href={ex.mapsUrl3} target="_blank" rel="noopener noreferrer" style={{
+        display: "inline-flex", alignItems: "center", gap: 4,
+        fontSize: 11, fontWeight: 700, color: "#fff", textDecoration: "none",
+        padding: "5px 11px", background: "#1A73E8", borderRadius: 999,
+      }}>{ex.mapsLabel3 || "🗺 Open in Maps"}</a>
+    )}
+  </div>
+)}
             {ex.link && (
               <a href={ex.link} target="_blank" rel="noopener noreferrer" style={{
                 display: "inline-flex", alignItems: "center", gap: 4,
