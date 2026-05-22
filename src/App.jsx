@@ -1115,7 +1115,7 @@ Stop 3 — Co-op Mega Kremmergaarden (Mid-Tier): Rasmus Rønnebergs gate 6, a fe
         name: "Goðafoss Rim Walk",
         difficulty: "Easy", distance: "2 km", time: "1 hr",
         desc: "Walk the lava rock rim around the horseshoe falls. Multiple viewpoints on both banks — especially dramatic in morning light. Best combined with the shuttle tour.",
-        alltrails: "https://www.alltrails.com/trail/iceland/norourland-eystra/godafoss-waterfall-trail",
+        alltrails: "https://www.alltrails.com/trail/iceland/northeastern/godafoss-waterfall",
         thumb: "/images/Akureyri3.png",
       },
     ],
