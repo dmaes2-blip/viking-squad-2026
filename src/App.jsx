@@ -163,7 +163,7 @@ const PACKING_SECTIONS = [
 function PackingList({ onClose }) {
   const STORAGE_KEY    = "viking_squad_packing_2026";
   const OWNER_KEY      = "viking_squad_owners_2026";
-  const CORRECT_PIN    = "2468";
+  const CORRECT_PIN    = "2468"; 
 
   // Public checked state (everyone sees this)
   const [checked, setChecked] = useState(() => {
