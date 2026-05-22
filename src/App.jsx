@@ -985,8 +985,13 @@ hiking: [
       {
   name: "The Epic Scandinavian Pick-and-Mix (Smågodt) Run 🍬",
   type: "Culture", badge: null,
-  desc: "A self-guided mission to satisfy a Scandinavian candy obsession using Ålesund's best high-turnover grocery bulk walls. Hunt for soft, fresh gummies — BUBS foam diamonds, Malaco candy fish, sour mixes — right in the walkable downtown core. ⚠️ These shops are open Mon–Sat but STRICTLY CLOSED on Sundays due to Norwegian trading laws. Jul 2 is a Thursday — you're good!\n\nStop 1 — REMA 1000 Strandgata (Budget): Nedre Strandgate 57. Fast-moving wall of bulk bins right on the waterfront. ~15–18 NOK per 100g (~150–180 NOK for a 1kg mega-haul).\n\nStop 2 — KIWI Nedre Strandgata (Budget): Nedre Strandgate 51 — practically next door. Ideal for double-checking variety and back-to-back bin hunting.\n\nStop 3 — Co-op Mega Kremmergaarden (Mid-Tier): Rasmus Rønnebergs gate 6, a few blocks inland. Larger selection wall with wider specialized imports. ~19–23 NOK per 100g.",
-  howto: "100% DIY — all three stops within easy walking distance of the pier",
+desc: `A self-guided mission to satisfy a Scandinavian candy obsession using Ålesund's best high-turnover grocery bulk walls. Hunt for soft, fresh gummies — BUBS foam diamonds, Malaco candy fish, sour mixes — right in the walkable downtown core. ⚠️ These shops are open Mon–Sat but STRICTLY CLOSED on Sundays due to Norwegian trading laws. Jul 2 is a Thursday — you're good!
+
+Stop 1 — REMA 1000 Strandgata (Budget): Nedre Strandgate 57. Fast-moving wall of bulk bins right on the waterfront. ~15–18 NOK per 100g (~150–180 NOK for a 1kg mega-haul).
+
+Stop 2 — KIWI Nedre Strandgata (Budget): Nedre Strandgate 51 — practically next door. Ideal for double-checking variety and back-to-back bin hunting.
+
+Stop 3 — Co-op Mega Kremmergaarden (Mid-Tier): Rasmus Rønnebergs gate 6, a few blocks inland. Larger selection wall with wider specialized imports. ~19–23 NOK per 100g.`,  howto: "100% DIY — all three stops within easy walking distance of the pier",
   price: "~150–230 NOK per kg depending on store",
   prebook: false,
   link: null,
