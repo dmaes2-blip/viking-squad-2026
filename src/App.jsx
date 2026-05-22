@@ -1412,8 +1412,6 @@ function ExcursionRow({ ex, hc }) {
                padding: "4px 11px", border: `1.5px solid ${hc}`, borderRadius: 999,
               }}>{ex.linkLabel || "Book / Info"}</a>
             )}
-          </div>
-        )}
         {ex.note && (
           <div style={{ marginTop: 8, padding: "8px 10px", background: "#FFF8E7",
             borderRadius: 8, borderLeft: "3px solid #FAC775" }}>
