@@ -788,6 +788,24 @@ const PORTS = [
         link: null,
         thumb: "/images/Haugesund Large.jpeg",
       },
+      {
+  name: "The Haugesund Smågodt Run 🍬",
+  type: "Culture", badge: null,
+  desc: `A quick two-stop pick-and-mix raid in walkable downtown Haugesund. Both shops are close together and easy to hit back-to-back — hunt for BUBS foam diamonds, Malaco candy fish, sour mixes, and whatever looks freshest. ⚠️ Jun 29 is a Monday — Norwegian trading laws do NOT apply on weekdays, you're good to go!
+
+Stop 1 — KIWI Kirkegata: Budget bin wall, fast turnover, great variety. ~15–18 NOK per 100g.
+
+Stop 2 — REMA 1000 Bytunet: Practically next door — wider selection wall, good for double-checking variety and back-to-back bin hunting.`,
+  howto: "100% DIY — both stops within easy walking distance of the pier",
+  price: "~150–230 NOK per kg depending on store",
+  prebook: false,
+  link: null,
+  mapsUrl: "https://maps.app.goo.gl/dJCXK4CFsZgBqPqV9",
+  mapsLabel: "📍 Stop 1 — KIWI Kirkegata",
+  mapsUrl2: "https://maps.app.goo.gl/dQP1qUkLNTw8YkNA6",
+  mapsLabel2: "📍 Stop 2 — REMA 1000 Bytunet",
+  thumb: "/images/Haugesund Large.jpeg",
+},
     ],
     hiking: [
       {
