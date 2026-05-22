@@ -801,7 +801,7 @@ const PORTS = [
         name: "Steinsfjellet Summit",
         difficulty: "Moderate", distance: "15 km", time: "3–4 hrs",
         desc: "Most elevation gain of any trail in the area (1,545 ft). Panoramic views over Haugesund and the surrounding archipelago from the summit.",
-        alltrails: "https://www.alltrails.com/trail/norway/rogaland/steinsfjellet-from-haugesund-ferry-quay",
+        alltrails: "https://www.alltrails.com/trail/norway/rogaland/steinsfjellet-fra-haugesund-ferjekai",
         thumb: "/images/Haugesund2 Large.jpeg",
       },
     ],
