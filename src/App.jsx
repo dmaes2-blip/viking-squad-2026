@@ -885,7 +885,7 @@ hiking: [
     name: "Feigumfossen Waterfall Trail",
     difficulty: "Moderate", distance: "2 km", time: "45–60 min",
     desc: "One of Norway's tallest waterfalls at 715 feet. Well-marked trail with ~150m elevation gain. Bikes available from Adventure Tours Norway to reach the trailhead.",
-    alltrails: "https://www.alltrails.com/trail/norway/vestland/feigumfossen-waterfall",
+    alltrails: "https://www.alltrails.com/explore/trail/norway/vestland/feigefossen",
     thumb: "/images/Skjolden2 Large.jpeg",
   },
 ],
