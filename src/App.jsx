@@ -808,6 +808,7 @@ const PORTS = [
     tips: [
       "It is home to the world's only statue of Marilyn Monroe in Norway — her father was actually a baker from a nearby village.",
       "Vår Frelsers Kirke (Our Saviour's Church) is worth popping into. The red-brick steeple is visible from everywhere in town and entrance is completely free.",
+      "Haraldshaugen National Monument (Haraldstøtten) is a 10-minute walk north of the town center and is an absolute must. Built in 1872 to mark exactly 1,000 years since King Harald Fairhair unified Norway, it sits directly over his legendary burial mound. The centerpiece is a 17-meter granite obelisk surrounded by 29 smaller pillars — each representing one of the chieftains or districts Harald conquered to form the nation. Standing here is as close as you can get to the literal birthplace of Norway as a country.",
       "E-bikes are available for rent in town and are a brilliant way to take the coastal path and learn about Viking history along the way. Note: minimum height 158cm.",
       "The Rising Tide statues along the coastal path are a top sight — grab a map at the visitor centre off the ship and walk or bike out to them. Picnic tables en route.",
       "Skip the Viking Planet digital museum in town — multiple cruisers call it overpriced and underwhelming. Avaldsnes Viking Farm is the real deal.",
