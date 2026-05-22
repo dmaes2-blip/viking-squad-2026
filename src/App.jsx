@@ -1178,6 +1178,30 @@ Stop 3 — Co-op Mega Kremmergaarden (Mid-Tier): Rasmus Rønnebergs gate 6, a fe
         thumb: "/images/Isafjordur Large.jpeg",
       },
       {
+        name: "Westfjords Heritage Museum",
+        type: "History", badge: null,
+        desc: "Located in one of the oldest 18th-century wooden buildings right by the harbour. Features authentic, beautifully preserved seaworthy boats, fascinating insights into the local fishing industry, and a quirky, famous collection of over 190 accordions.",
+        howto: "100% DIY — steps from the pier", price: "Small entry fee", prebook: false,
+        link: null,
+        thumb: "/images/Isafjordur Large.jpeg",
+      },
+      {
+        name: "The Old Hospital (Library & Culture House)",
+        type: "Culture", badge: null,
+        desc: "A gorgeous historic building turned cultural centre. Hosts rotating local art exhibits and cozy seating rooms perfect for a quiet moment of reflection. Also the best restrooms in town — free and pristine.",
+        howto: "100% DIY — short walk from the pier", price: "Free", prebook: false,
+        link: null,
+        thumb: "/images/Isafjordur Large.jpeg",
+      },
+      {
+        name: "Whale Bone Arch & Community Garden",
+        type: "Culture", badge: null,
+        desc: "Tucked a short walk uphill past the modern church, this peaceful park is centred on a massive iconic arch constructed from a whale's jawbone. A quiet, memorable stop that captures the deep connection between Ísafjörður and the sea.",
+        howto: "100% DIY — 10 min walk from the pier", price: "Free", prebook: false,
+        link: null,
+        thumb: "/images/Isafjordur Large.jpeg",
+      },
+      {
         name: "Dynjandi Waterfall",
         type: "Nature", badge: null,
         desc: "'Jewel of the Westfjords' — a 100m tiered cascade fanning out like a bridal veil, with 7 smaller falls below it. 1-hour drive each way on winding Westfjords roads. ~5–6 hours total. Tour required — not suitable for DIY without a rental car and confidence on mountain roads.",
@@ -1187,6 +1211,13 @@ Stop 3 — Co-op Mega Kremmergaarden (Mid-Tier): Rasmus Rønnebergs gate 6, a fe
       },
     ],
     hiking: [
+      {
+        name: "Hillside Observation Deck Trail",
+        difficulty: "Easy", distance: "~1 km", time: "20–30 min",
+        desc: "An easily accessible trail starting just a 10-minute walk north of the town park. The path winds uphill past patches of bright lupine flowers and leads to a wooden stairs-and-observation platform with views over the town and fjord. Note: beyond the deck the path becomes rocky and loose — sturdy footwear recommended.",
+        alltrails: null,
+        thumb: "/images/Isafjordur Large.jpeg",
+      },
       {
         name: "Naustahvilft — The Troll Seat",
         difficulty: "Hard", distance: "12 km return", time: "4–5 hrs",
@@ -1203,6 +1234,7 @@ Stop 3 — Co-op Mega Kremmergaarden (Mid-Tier): Rasmus Rønnebergs gate 6, a fe
       },
     ],
     tips: [
+      "The Rainbow Path marks the vibrant centre of town — a playful rainbow-painted street lined with local cafes, bakeries, clothing boutiques, and a bank with an ATM. A handy landmark and the best spot to grab a coffee or pick up cash.",
       "Because it's surrounded by such steep mountains, the sun doesn't shine on the town at all for several months during winter — the locals celebrate its return each January.",
       "The town is famous for its '3D' zebra crossing, painted to look like it's floating above the road to slow down traffic. It works.",
       "The abandoned coastal road is Ísafjörður's secret: wildflowers growing through cracked tarmac, boulders in the road, seabird colonies. Rent a bike near the terminal and ask for directions — almost nothing shows up online.",
