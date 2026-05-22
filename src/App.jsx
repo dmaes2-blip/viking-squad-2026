@@ -757,7 +757,7 @@ const PORTS = [
     hours: "9am – 6pm",
     tagline: "Birthplace of Norway & the Viking Kings",
     heroColor: T.tealDark,
-    historicBlurb: "Haugesund is where Norway was born. In 872 AD, King Harald Fairhair unified all of Norway after the Battle of Hafrsfjord — and the country's very name comes from a shipping lane here called 'Way to the North.' The burial mound of Harald Fairhair, Haraldshaugen, still stands north of town, marked by a towering obelisk erected exactly one thousand years later in 1872.",
+    historicBlurb: "Population: ~38,000 to 47,000 residents. Haugesund is where Norway was born. In 872 AD, King Harald Fairhair unified all of Norway after the Battle of Hafrsfjord — and the country's very name comes from a shipping lane here called 'Way to the North.' The burial mound of Harald Fairhair, Haraldshaugen, still stands north of town, marked by a towering obelisk erected exactly one thousand years later in 1872.",
     carousel: [
       "/images/Haugesund Large.jpeg",
       "/images/Haugesund2 Large.jpeg",
@@ -825,7 +825,7 @@ const PORTS = [
     hours: "8am – 5pm",
     tagline: "Gateway to the King of Fjords",
     heroColor: T.tealDark,
-    historicBlurb: "Skjolden sits at the very end of Sognefjord — Norway's longest fjord at 204km, nicknamed 'King of the Fjords.' The 4-hour sail-in is considered one of the most scenic cruise experiences in the world. The nearby Urnes Stave Church (UNESCO, 12th century) blends Viking and early Christian wood carvings unlike anything else in Scandinavia. Philosopher Ludwig Wittgenstein wrote parts of his Tractatus in a remote cabin here.",
+    historicBlurb: "Population: ~240 residents. Skjolden sits at the very end of Sognefjord — Norway's longest fjord at 204km, nicknamed 'King of the Fjords.' The 4-hour sail-in is considered one of the most scenic cruise experiences in the world. The nearby Urnes Stave Church (UNESCO, 12th century) blends Viking and early Christian wood carvings unlike anything else in Scandinavia. Philosopher Ludwig Wittgenstein wrote parts of his Tractatus in a remote cabin here.",
     carousel: [
       "/images/Skjolden Large.jpeg",
       "/images/Skjolden2 Large.jpeg",
@@ -908,7 +908,7 @@ hiking: [
     tagline: "Europe's Largest Glacier on Your Doorstep",
     heroColor: T.tealDark,
     tender: "confirmed",
-    historicBlurb: "Olden sits beneath Jostedalsbreen — Europe's largest glacier at 487 square kilometres. The valley to Briksdalsbreen passes the eerily turquoise Oldevatnet lake, coloured by glacial meltwater. American landscape painter William Henry Singer made Olden his home in the early 1900s, inspired by its beauty.",
+    historicBlurb: "Population: ~520 residents. Olden sits beneath Jostedalsbreen — Europe's largest glacier at 487 square kilometres. The valley to Briksdalsbreen passes the eerily turquoise Oldevatnet lake, coloured by glacial meltwater. American landscape painter William Henry Singer made Olden his home in the early 1900s, inspired by its beauty.",
     carousel: [
       "/images/Olden Large.jpeg",
       "/images/Olden2 Large.jpeg",
@@ -968,7 +968,7 @@ hiking: [
     hours: "10am – 7pm",
     tagline: "Art Nouveau City Born from Ash",
     heroColor: T.tealDark,
-    historicBlurb: "On the night of 23 January 1904, a fire swept through Ålesund and destroyed nearly the entire town, leaving 10,000 people homeless in winter. Kaiser Wilhelm II of Germany sent immediate aid. Young Norwegian architects redesigned the city in just three years, creating the world's largest and most coherent collection of Art Nouveau architecture — over 400 buildings still standing today.",
+    historicBlurb: "Population: ~41,000 residents. On the night of 23 January 1904, a fire swept through Ålesund and destroyed nearly the entire town, leaving 10,000 people homeless in winter. Kaiser Wilhelm II of Germany sent immediate aid. Young Norwegian architects redesigned the city in just three years, creating the world's largest and most coherent collection of Art Nouveau architecture — over 400 buildings still standing today.",
     carousel: [
       "/images/Alesund Large.jpeg",
       "/images/Alesund2 Large.jpeg",
