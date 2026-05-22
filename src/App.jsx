@@ -794,7 +794,7 @@ const PORTS = [
         name: "Kyststien (Coastal Path) + Rising Tide Statues",
         difficulty: "Easy", distance: "10 km", time: "~2 hrs each way",
         desc: "Grab a map at the visitor centre when you get off the ship. The coastal path passes Haraldshaugen, Kvalen lighthouse, picnic tables, and the famous Rising Tides sculptures. About an hour each way at a comfortable pace. Toilets along the route. Bring snacks! Note: e-bikes available for rent in town (min height 158cm) — a great way to cover more ground.",
-        alltrails: "https://www.alltrails.com/trail/norway/rogaland/kyststien-coastal-path-haugesund",
+        alltrails: "https://www.alltrails.com/trail/norway/rogaland/kyststien-haugesund",
         thumb: "/images/Haugesund3 Large.jpeg",
       },
       {
