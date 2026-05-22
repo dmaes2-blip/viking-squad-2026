@@ -1759,7 +1759,7 @@ function SeaDayCard({ date, label, icon, note, isToday, bookingReminder }) {
               display: "inline-flex", alignItems: "center", gap: 4,
               fontSize: 11, fontWeight: 700, color: "#fff", textDecoration: "none",
               padding: "6px 13px", background: "#7A4300", borderRadius: 999,
-            }}>📅 Book Now ↗</a>
+            }}>📅 Book Now</a>
           </div>
         </div>
       )}
@@ -2134,14 +2134,14 @@ function ShipTabContent() {
             style={{ fontSize: 10.5, fontWeight: 700, color: "rgba(255,255,255,0.8)",
               textDecoration: "none", padding: "4px 10px",
               border: "1px solid rgba(255,255,255,0.3)", borderRadius: 999 }}>
-            🗺 Full Deck Plans ↗
+            🗺 Full Deck Plans 
           </a>
           <a href="https://www.princess.com/deckPlans.do?shipCode=YP"
             target="_blank" rel="noopener noreferrer"
             style={{ fontSize: 10.5, fontWeight: 700, color: "rgba(255,255,255,0.8)",
               textDecoration: "none", padding: "4px 10px",
               border: "1px solid rgba(255,255,255,0.3)", borderRadius: 999 }}>
-            📄 Princess PDF ↗
+            📄 Princess PDF 
           </a>
         </div>
       </div>
