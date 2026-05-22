@@ -935,6 +935,13 @@ hiking: [
         thumb: "/images/Olden2 Large.jpeg",
       },
       {
+  name: "Olden Historical Village & Two Churches Walk",
+  difficulty: "Easy", distance: "3.2 km", time: "1–1.5 hrs",
+  desc: "A completely flat, low-stress walk straight off the cruise terminal along paved sidewalks and roads. Head east through the main village, passing local shops and supermarkets — grab a bottle of Olden glacier water along the way. First stop: Olden Old Church (Gamlekyrkja), built in 1759, a beautiful white wooden church now operating as a walk-in museum of local parish history. Continue past the school to the striking red Olden New Church (Nye Kyrkje) — a vivid red wooden structure with a dramatic backdrop of massive green mountains. One of the best free things to do in port.",
+  alltrails: "https://www.alltrails.com/explore?q=Olden+Norway",
+  thumb: "/images/Olden Large.jpeg",
+},
+      {
         name: "Huaren on Auflem Mountain",
         difficulty: "Moderate", distance: "4 km", time: "2.5 hrs",
         desc: "From Olden port straight up to 400m. Stunning views over Nordfjord and the villages of Olden and Loen. 90 min up, 60 min down.",
