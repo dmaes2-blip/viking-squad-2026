@@ -938,7 +938,7 @@ hiking: [
         name: "Huaren on Auflem Mountain",
         difficulty: "Moderate", distance: "4 km", time: "2.5 hrs",
         desc: "From Olden port straight up to 400m. Stunning views over Nordfjord and the villages of Olden and Loen. 90 min up, 60 min down.",
-        alltrails: "https://www.alltrails.com/trail/norway/vestland/huaren-auflem",
+        alltrails: "https://www.alltrails.com/trail/norway/vestland/huaren-i-olden",
         thumb: "/images/Olden3 Large.jpeg",
       },
     ],
