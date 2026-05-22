@@ -1183,6 +1183,8 @@ Stop 3 — Co-op Mega Kremmergaarden (Mid-Tier): Rasmus Rønnebergs gate 6, a fe
         desc: "Located in one of the oldest 18th-century wooden buildings right by the harbour. Features authentic, beautifully preserved seaworthy boats, fascinating insights into the local fishing industry, and a quirky, famous collection of over 190 accordions.",
         howto: "100% DIY — steps from the pier", price: "Small entry fee", prebook: false,
         link: null,
+        mapsUrl: "https://maps.app.goo.gl/vhq9Tiq1mTaAxfys7",
+        mapsLabel: "📍 Westfjords Heritage Museum",
         thumb: "/images/Isafjordur Large.jpeg",
       },
       {
@@ -1191,6 +1193,8 @@ Stop 3 — Co-op Mega Kremmergaarden (Mid-Tier): Rasmus Rønnebergs gate 6, a fe
         desc: "A gorgeous historic building turned cultural centre. Hosts rotating local art exhibits and cozy seating rooms perfect for a quiet moment of reflection. Also the best restrooms in town — free and pristine.",
         howto: "100% DIY — short walk from the pier", price: "Free", prebook: false,
         link: null,
+        mapsUrl: "https://maps.app.goo.gl/YgptCeZVAc3UiReC7",
+        mapsLabel: "📍 The Old Hospital / Culture House",
         thumb: "/images/Isafjordur Large.jpeg",
       },
       {
@@ -1199,6 +1203,8 @@ Stop 3 — Co-op Mega Kremmergaarden (Mid-Tier): Rasmus Rønnebergs gate 6, a fe
         desc: "Tucked a short walk uphill past the modern church, this peaceful park is centred on a massive iconic arch constructed from a whale's jawbone. A quiet, memorable stop that captures the deep connection between Ísafjörður and the sea.",
         howto: "100% DIY — 10 min walk from the pier", price: "Free", prebook: false,
         link: null,
+        mapsUrl: "https://maps.app.goo.gl/kmMXZW7roG4fWLVe8",
+        mapsLabel: "📍 Whale Bone Arch & Community Garden",
         thumb: "/images/Isafjordur Large.jpeg",
       },
       {
@@ -1208,6 +1214,16 @@ Stop 3 — Co-op Mega Kremmergaarden (Mid-Tier): Rasmus Rønnebergs gate 6, a fe
         howto: "Guided tour required (no public transit)", price: "~$140 pp", prebook: true,
         link: "https://www.iceland-highlights.com/isafjordur-shore-excursions/",
         thumb: "/images/Isafjordur2 Large.jpeg",
+      },
+      {
+        name: "Monument to the Lost Sailors",
+        type: "Culture", badge: null,
+        desc: "A solemn and moving memorial on the edge of town dedicated to the fishermen of the Westfjords who never returned from sea. Fishing has always been the lifeblood of Ísafjörður — and the losses have been enormous. The monument serves as a quiet reminder of the price generations of local families paid for that industry, and is one of the most emotionally resonant spots in town.",
+        howto: "100% DIY — short walk from the pier", price: "Free", prebook: false,
+        link: null,
+        mapsUrl: "https://maps.app.goo.gl/Go6JMYPUbEMHzviF9",
+        mapsLabel: "📍 Monument to the Lost Sailors",
+        thumb: "/images/Isafjordur Large.jpeg",
       },
     ],
     hiking: [
