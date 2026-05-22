@@ -1083,7 +1083,7 @@ Stop 3 — Co-op Mega Kremmergaarden (Mid-Tier): Rasmus Rønnebergs gate 6, a fe
     whales: true,
     tagline: "Whale Watching Capital of Europe",
     heroColor: T.blueDark,
-    historicBlurb: "Akureyri is Iceland's second city — just 20,000 people at the head of Eyjafjörður, the country's longest fjord at 70km. The Akureyrarkirkja church has a ship suspended from its ceiling, a Norse tradition of praying for sailors at sea. Goðafoss ('Waterfall of the Gods') is 30 minutes away and marks the pivotal moment in 1000 AD when Iceland's Lawspeaker threw his pagan idols into the falls upon the country's conversion to Christianity.",
+    historicBlurb: "Population: ~20,000. Akureyri is Iceland's second city — just 20,000 people at the head of Eyjafjörður, the country's longest fjord at 70km. The Akureyrarkirkja church has a ship suspended from its ceiling, a Norse tradition of praying for sailors at sea. Goðafoss ('Waterfall of the Gods') is 30 minutes away and marks the pivotal moment in 1000 AD when Iceland's Lawspeaker threw his pagan idols into the falls upon the country's conversion to Christianity.",
     carousel: [
       "/images/Akureyri.png",
       "/images/Akureyri2.png",
@@ -1137,7 +1137,7 @@ Stop 3 — Co-op Mega Kremmergaarden (Mid-Tier): Rasmus Rønnebergs gate 6, a fe
     tagline: "Gateway to Europe's Last Great Wilderness",
     heroColor: T.blueDark,
     tender: "possible",
-    historicBlurb: "Only 10% of Iceland's visitors ever reach the Westfjords — making your stop here genuinely rare. Ísafjörður has been inhabited since the 9th century, and was an important trading post whose 18th-century timber-frame buildings still stand at the Heritage Museum. The Westfjords are geologically the oldest part of Iceland (16 million years), with fjords so deep the sun disappears entirely for months during winter.",
+    historicBlurb: "Population: ~2,700. Only 10% of Iceland's visitors ever reach the Westfjords — making your stop here genuinely rare. Ísafjörður has been inhabited since the 9th century, and was an important trading post whose 18th-century timber-frame buildings still stand at the Heritage Museum. The Westfjords are geologically the oldest part of Iceland (16 million years), with fjords so deep the sun disappears entirely for months during winter.",
     carousel: [
       "/images/Isafjordur Large.jpeg",
     ],
@@ -1198,7 +1198,7 @@ Stop 3 — Co-op Mega Kremmergaarden (Mid-Tier): Rasmus Rønnebergs gate 6, a fe
     tagline: "Kirkjufell: Iceland's Most Photographed Mountain",
     heroColor: T.blueDark,
     tender: "confirmed",
-    historicBlurb: "Grundarfjörður is a fishing village of ~960 people on the north shore of the Snæfellsnes Peninsula — 'Iceland in Miniature.' Kirkjufell ('Church Mountain'), visible directly from the pier, is Iceland's most photographed peak and appeared as the 'Arrowhead Mountain' in Game of Thrones Season 7. The nearby Snæfellsjökull glacier-volcano inspired Jules Verne's Journey to the Centre of the Earth.",
+    historicBlurb: "Population: 870 to 1,000 people. Grundarfjörður is a fishing village of ~960 people on the north shore of the Snæfellsnes Peninsula — 'Iceland in Miniature.' Kirkjufell ('Church Mountain'), visible directly from the pier, is Iceland's most photographed peak and appeared as the 'Arrowhead Mountain' in Game of Thrones Season 7. The nearby Snæfellsjökull glacier-volcano inspired Jules Verne's Journey to the Centre of the Earth.",
     carousel: [
       "/images/Grundarfjordur Large.jpeg",
       "/images/Grundarfjordur2 Large.jpeg",
@@ -1259,7 +1259,7 @@ Stop 3 — Co-op Mega Kremmergaarden (Mid-Tier): Rasmus Rønnebergs gate 6, a fe
     whales: true,
     tagline: "World's Northernmost Capital",
     heroColor: T.blueDark,
-    historicBlurb: "Reykjavík was founded in 874 AD by Norse settler Ingólfr Arnarson — the name means 'Bay of Smokes' for the geothermal steam he spotted on arrival. The city sits on two tectonic plates slowly pulling apart; you can literally stand with one foot in North America and one in Europe at Þingvellir, 45 minutes away. Iceland has no standing army, no mosquitoes, no snakes, and hasn't had a McDonald's since 2009.",
+    historicBlurb: "Population: ~140,000 (city) ~ 245,000 (region). Reykjavík was founded in 874 AD by Norse settler Ingólfr Arnarson — the name means 'Bay of Smokes' for the geothermal steam he spotted on arrival. The city sits on two tectonic plates slowly pulling apart; you can literally stand with one foot in North America and one in Europe at Þingvellir, 45 minutes away. Iceland has no standing army, no mosquitoes, no snakes, and hasn't had a McDonald's since 2009.",
     carousel: [
       "/images/Reykjavik1 Large.jpeg",
     ],
