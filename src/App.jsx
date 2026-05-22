@@ -834,8 +834,7 @@ excursions: [
   {
     name: "E-Bike Rental — Full Day ✅ BOOKED",
     type: "Adventure", badge: "must-do",
-    desc: "CONFIRMED · 2 bikes · 9:30am–7:00pm · Pickup at Skjolden Marina (400m from the cruise terminal). E-bikes are Trek UM3+ — perfect for the valley roads and gentle climbs. No guided routes needed — they provide a local map with options. Best route: Drivandefossen Waterfall Bike & Hike (scroll down the routes page). Helmet, light, and local map included.",
-    howto: "Walk 400m from the cruise terminal to Skjolden Marina — meet-up 15–20 min before 9:30am. No printed tickets needed.",
+desc: "CONFIRMED · 2 bikes · 9:30am–7:00pm · Pickup at Skjolden Marina (400m from the cruise terminal). E-bikes are Trek UM3+ — perfect for the valley roads and gentle climbs. Helmet, light, and local map included.\n\n🗺 Route Option 1 (North): Breheimen National Park — Ride north through the valley into Breheimen National Park. Dramatic rugged mountain valley with sweeping glacial views and wild rivers.\n\n🗺 Route Option 2 (South): The Romantic Road — Hug the edge of Lustrafjord heading south to hit two iconic landmarks: Feigefossen Waterfall (218m / 715ft, one of Norway's highest unregulated falls) and UNESCO Urnes Stave Church (12th-century, World Heritage Site).",    howto: "Walk 400m from the cruise terminal to Skjolden Marina — meet-up 15–20 min before 9:30am. No printed tickets needed.",
     price: "✅ Paid · 2 × e-bike day rental", prebook: true,
     link: "https://www.adventuretours.no/bicycle-rental/#drivandefossen",
     linkLabel: "🚲 Bike Routes (scroll to Drivandefossen)",
@@ -860,15 +859,36 @@ excursions: [
     thumb: "/images/Skjolden Large.jpeg",
   },
 ],
-    hiking: [
-      {
-        name: "Feigumfossen Waterfall Trail",
-        difficulty: "Moderate", distance: "2 km", time: "45–60 min",
-        desc: "One of Norway's tallest waterfalls at 715 feet. Well-marked trail with ~150m elevation gain. Bikes available from Adventure Tours Norway to reach the trailhead.",
-        alltrails: "https://www.alltrails.com/trail/norway/vestland/feigumfossen-waterfall",
-        thumb: "/images/Skjolden2 Large.jpeg",
-      },
-    ],
+hiking: [
+  {
+    name: "Sengjaberget Utsiktspunkt — The Bedrock Viewpoint",
+    difficulty: "Easy–Moderate", distance: "1.5 km", time: "45–60 min",
+    desc: "Short but rewarding uphill hike winding up through trees and rocks right from the village center. Rises ~400 feet to a rocky outcrop with an unobstructed bird's-eye view looking straight down at the cruise ship terminal, the village, and the brilliant green waters of Eidsvatnet lake. Sturdy footwear recommended — rocks can be slick.",
+    alltrails: "https://outtt.com/en/norway/skjolden/sengjaberget",
+    thumb: "/images/Skjolden Large.jpeg",
+  },
+  {
+    name: "Eidsvatnet Lake & Mørkrid River Stroll",
+    difficulty: "Easy", distance: "4–6 km", time: "1–2 hrs",
+    desc: "Completely flat, very easy walking path wrapping around the scenic edges of Eidsvatnet Lake and the rushing glacier-fed Mørkrid River. Perfect for a peaceful stroll right off the pier with no steep climbing. Follow the flat valley road slightly inland along the river to pass the local Skjolden Llama Farm — llamas viewable right from the roadside path.",
+    alltrails: "https://outtt.com/en/norway/skjolden/morkrisdalen",
+    thumb: "/images/Skjolden2 Large.jpeg",
+  },
+  {
+    name: "Åsafossen Waterfall & Wittgenstein's Cabin Trail",
+    difficulty: "Moderate", distance: "6–8 km", time: "2–2.5 hrs",
+    desc: "Walk from the pier along the flat valley road heading east toward Fortun until you reach the powerful Åsafossen Waterfall viewing area. From there a clear trail climbs up the forested hillside to the remote location where Austrian philosopher Ludwig Wittgenstein built his quiet wooden cabin to work in total isolation overlooking the water.",
+    alltrails: "https://outtt.com/en/norway/skjolden/wittgenstein",
+    thumb: "/images/Skjolden3 Large.jpeg",
+  },
+  {
+    name: "Feigumfossen Waterfall Trail",
+    difficulty: "Moderate", distance: "2 km", time: "45–60 min",
+    desc: "One of Norway's tallest waterfalls at 715 feet. Well-marked trail with ~150m elevation gain. Bikes available from Adventure Tours Norway to reach the trailhead.",
+    alltrails: "https://www.alltrails.com/trail/norway/vestland/feigumfossen-waterfall",
+    thumb: "/images/Skjolden2 Large.jpeg",
+  },
+],
     tips: [
       "The water in the fjord here has a distinct bright green tint caused by 'glacier flour' — fine rock dust ground down by glaciers and carried into the water by meltwater streams.",
       "Treat the sail-IN as part of the excursion — be on the top deck by 6am for the 4-hour passage through Sognefjord and Lustrafjord. One of the most spectacular things on the whole cruise.",
