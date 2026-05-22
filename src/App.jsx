@@ -1300,8 +1300,8 @@ Stop 3 — Co-op Mega Kremmergaarden (Mid-Tier): Rasmus Rønnebergs gate 6, a fe
       {
         name: "Kirkjufellsfoss Loop",
         difficulty: "Easy", distance: "3 km", time: "1.5 hrs",
-        desc: "From tender landing to the iconic waterfall and mountain composition. Gravel paths, one steep section near the falls. Horses on the path. Iceland's most-photographed view. No toilets at the site.",
-        alltrails: "https://www.alltrails.com/trail/iceland/vesturland/kirkjufellsfoss-loop",
+        desc: "From tender landing to the iconic waterfall and mountain composition. Gravel paths, one steep section near the falls. Horses on the path. Iceland's most-photographed view. No toilets at the site. If you choose to forgo the €15 "Kirkjufell Express" shuttle bus, it is a highly scenic, flat, and very manageable 1.85-mile (approx. 3 km) walk each way along the bay from the town center to the waterfalls.",
+        alltrails: "https://www.alltrails.com/explore/trail/iceland/western/kirkjufellsfoss",
         thumb: "/images/Grundarfjordur Large.jpeg",
       },
       {
@@ -1316,6 +1316,9 @@ Stop 3 — Co-op Mega Kremmergaarden (Mid-Tier): Rasmus Rønnebergs gate 6, a fe
       "Kirkjufell is an 'exhumed' mountain — its layers represent millions of years of volcanic activity and glacial erosion stacked on top of each other.",
       "The nearby Snæfellsjökull glacier is believed by many to be one of the Earth's seven great 'energy centers' or chakras.",
       "TENDER PORT — pre-book everything. No taxis at the pier and very few walk-up options.",
+      "A Mini "Melting Pot": Despite having a tiny local population of only about 800 residents, roughly 27% of the population are foreigners representing over 30 different countries. This gives the tiny fishing village an incredibly international vibe, including unique local businesses like a Colombian coffee roasting company.",
+      "The "Árborg" Neighborhood Festival: If your trip lines up with their annual summer festival, the entire town engages in a massive neighborhood competition. Each neighborhood is assigned a specific vibrant color, and residents paint themselves, dress up, and hang matching streamers for a giant parade down to the harbor.",
+      "Pop Culture Fame: The distinct conical shape of Kirkjufell Mountain serves as a major filming location for Game of Thrones (represented as "Arrowhead Mountain").",
       "Kirkjufell Mountain summit is NOT suitable for unguided walkers. The waterfall view is the goal — don't attempt the mountain itself without an equipped guide.",
       "Neither Kirkjufellsfoss nor Grundarfoss has a toilet at the site. Plan before you leave.",
     ],
