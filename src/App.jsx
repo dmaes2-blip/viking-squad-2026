@@ -1409,7 +1409,7 @@ function ExcursionRow({ ex, hc }) {
               <a href={ex.link} target="_blank" rel="noopener noreferrer" style={{
                 display: "inline-flex", alignItems: "center", gap: 4,
                 fontSize: 11, fontWeight: 700, color: hc, textDecoration: "none",
-                padding: "4px 11px", border: `1.5px solid ${hc}`, borderRadius: 999,
+                padding: "4px 11px", border: "1.5px solid " + hc, borderRadius: 999,
               }}>{ex.linkLabel || "Book / Info"}</a>
             )}
           </div>
@@ -1418,7 +1418,7 @@ function ExcursionRow({ ex, hc }) {
           <div style={{ marginTop: 8, padding: "8px 10px", background: "#FFF8E7",
             borderRadius: 8, borderLeft: "3px solid #FAC775" }}>
             <p style={{ fontSize: 11, color: "#7A4300", margin: 0, lineHeight: 1.5 }}>
-              ⚠️ {ex.note}
+              {"⚠️"} {ex.note}
             </p>
           </div>
         )}
