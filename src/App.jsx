@@ -1169,7 +1169,7 @@ Stop 3 — Co-op Mega Kremmergaarden (Mid-Tier): Rasmus Rønnebergs gate 6, a fe
       {
         name: "Around the Walls (Borea Adventures) ✅ BOOKED",
         type: "Walking", badge: "must-do",
-        desc: "CONFIRMED · Booking BAD-T130991303 · 2 participants · 9:30am–12:00pm (2.5 hours). A guided walk around the old town walls and historic waterfront of Isafjordur with Borea Adventures — specialists in Westfjords experiences.",
+        desc: "CONFIRMED · Booking BAD-T130991303 · 2 participants · 9:30am–12:00pm (2.5 hours). A guided bike tour around the old town walls and historic waterfront of Isafjordur with Borea Adventures — specialists in Westfjords experiences.",
         howto: "Meeting point: Borea Adventures outdoor base, Mávagarður C, grey building, 400 Ísafjörður. Contact: info@borea.is · boreaadventures.com",
         price: "✅ Paid · Booking BAD-T130991303", prebook: true,
         link: "https://www.boreaadventures.com",
