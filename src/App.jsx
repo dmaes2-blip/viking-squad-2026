@@ -983,6 +983,22 @@ hiking: [
         thumb: "/images/Alesund Large.jpeg",
       },
       {
+  name: "Art Nouveau Architectural Spine — Self-Guided Walk",
+  type: "Walking", badge: null,
+  desc: "To see the best of Ålesund's unique Jugendstil architecture, stroll down three key downtown streets: Apotekergata, Olav Plass, and Kongens gate. Keep your eyes looking UP — the beauty is in the turrets, curved stone edges, and organic nature-inspired motifs carved into the facades. Every building tells a story of the 1904 fire and the extraordinary three-year rebuild that followed.",
+  howto: "100% DIY — walk from the pier", price: "Free", prebook: false,
+  link: null,
+  thumb: "/images/Alesund Large.jpeg",
+},
+{
+  name: "Moloveien Creative District & Molja Lighthouse",
+  type: "Walking", badge: null,
+  desc: "A historic waterfront street once a rundown industrial corner, now reinvented as a vibrant creative hub. Old wooden and stone seaside warehouses line Moloveien, housing local galleries, antique shops, and indie artist spaces. At the very end of the pier sits the historic Molja Lighthouse — which uniquely operates as 'Room 47' for the nearby Hotel Brosundet, meaning guests can actually book a night sleeping inside the functioning lighthouse itself.",
+  howto: "100% DIY — walk from the pier", price: "Free", prebook: false,
+  link: null,
+  thumb: "/images/Alesund2 Large.jpeg",
+},
+      {
         name: "Atlantic Sea Park (Atlanterhavsparken)",
         type: "Family", badge: null,
         desc: "One of Northern Europe's largest saltwater aquariums. Seals, penguins, otters, and touch tanks. ~5.5km from port — take local bus #14 from the city centre (~15 min, ~$4) or taxi (~$14). Entry at the door.",
@@ -1009,6 +1025,7 @@ hiking: [
     ],
     tips: [
       "The town is built across seven islands connected by tunnels and bridges — no other city in Norway is quite like it geographically.",
+      "Ålesund kirke (the town church) was completely destroyed in the 1904 fire. Showing remarkable resilience, the foundation stone for the replacement was laid just two years later in 1906 with King Haakon VII presiding. If it's open when you visit, step inside for spectacular towering stained-glass windows, a massive acoustic pipe organ, and a baptismal font carved entirely from solid Italian marble.",
       "One of the few places in the world where you can see a 'submerged' forest: the nearby lake Lygnstøylsvatnet contains 100-year-old trees standing completely underwater after a rockslide dammed the valley.",
       "Mount Aksla is free, spectacular, and 1km from the ship. Go early before the crowds reach the steps.",
       "Viking Rollo — first ruler of Normandy and ancestor of William the Conqueror — was from Ålesund. His statue sits in the park at the base of the Aksla steps.",
