@@ -1405,7 +1405,7 @@ function ExcursionRow({ ex, hc }) {
                 display: "inline-flex", alignItems: "center", gap: 4,
                 fontSize: 11, fontWeight: 700, color: hc, textDecoration: "none",
                 padding: "4px 11px", border: `1.5px solid ${hc}`, borderRadius: 999,
-              }}>{ex.linkLabel || "Book / Info ↗"}</a>
+              }}>{ex.linkLabel || "Book / Info"}</a>
             )}
           </div>
         )}
@@ -1444,7 +1444,7 @@ function HikeRow({ hike }) {
           display: "inline-flex", alignItems: "center", gap: 5,
           fontSize: 11, fontWeight: 700, color: "#fff", textDecoration: "none",
           background: "#3D8B37", padding: "5px 13px", borderRadius: 999,
-        }}>🥾 Open on AllTrails ↗</a>
+        }}>🥾 Open on AllTrails</a>
       </div>
     </div>
   );
