@@ -1572,8 +1572,7 @@ function ExcursionRow({ ex, hc }) {
             {ex.link && (
               <a href={ex.link} target="_blank" rel="noopener noreferrer" style={{
                 display: "inline-flex", alignItems: "center", gap: 4,
-                border: `1.5px solid ${hc}`, borderRadius: 999,
-               padding: "4px 11px", border: "1.5px solid " + hc, borderRadius: 999,
+                padding: "4px 11px", border: `1.5px solid ${hc}`, borderRadius: 999,
               }}>{ex.linkLabel || "Book / Info"}</a>
             )}
         {ex.note && (
