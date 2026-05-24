@@ -1440,6 +1440,22 @@ excursions: [
         thumb: "/images/Reykjavik1 Large.jpeg",
       },
     ],
+        hiking: [
+{
+        name: "Öskjuhlíð Hill & Perlan",
+        difficulty: "Easy", distance: "3–5 km", time: "1–1.5 hrs",
+        desc: "A peaceful, densely wooded hill right in the heart of Reykjavík — pine trees, birdsong, and WWII concrete ruins along the way. The winding gravel paths lead straight up to the iconic Perlan Museum at the top, with sweeping panoramic views over the city and ocean. No transport needed — 15 min walk from downtown or Hallgrímskirkja.",
+        alltrails: null,
+        thumb: "/images/Reykjavik1 Large.jpeg",
+      },
+      {
+        name: "Mount Esja",
+        difficulty: "Moderate", distance: "8 km return", time: "3–4 hrs",
+        desc: "The massive volcanic mountain range you can see across the bay from the Reykjavík waterfront — the quintessential local hike. Well-maintained trail with a steady incline through rocky terrain, splitting into different difficulty levels so you choose how high to push. Most hikers stop at Steinn (The Stone) for incredible unobstructed views back over the entire city before the trail gets technical. Getting there: 20-min drive north, or take Strætó Bus #57 from downtown — drops you directly at the trailhead.",
+        alltrails: "https://www.alltrails.com/explore/trail/iceland/capital/mount-esja-steinn-thverfellshorn?u=i&sh=pnogwr",
+        thumb: "/images/Reykjavik1 Large.jpeg",
+      },
+    ],
 tips: [
       "📍 You are docking at Pier Skarfabakki — this is about 15 min walk from the Old Harbour where most tours and the walking tour depart. Short taxi if needed.",
       "🧶 Souvenir tip: For a genuine Icelandic wool sweater or authentic souvenir, look for shops with long, unpronounceable Icelandic names. Shops with generic names like 'Spirit of Iceland' are tourist traps selling mass-produced imports. Always check clothing labels for authentic Icelandic wool.",
