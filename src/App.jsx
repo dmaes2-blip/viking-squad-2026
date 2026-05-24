@@ -1655,8 +1655,7 @@ function PortCard({ port, initialOpen = false }) {
             <div style={{ display: "flex", flexWrap: "wrap", alignItems: "center", gap: 6, marginBottom: 3 }}>
               <span style={{ fontSize: 10.5, fontWeight: 600, letterSpacing: "0.08em",
                 color: "rgba(255,255,255,0.62)", textTransform: "uppercase" }}>
-                {port.date} · {port.hours}
-              </span>
+{new Date(`2026 ${port.date}`).toLocaleDateString("en-US", { weekday: "long" }).toUpperCase()} {port.date} · {port.hours}              </span>
               {port.whales && (
                 <span style={{ fontSize: 10, background: "rgba(255,255,255,0.18)",
                   color: T.white, padding: "2px 8px", borderRadius: 999, fontWeight: 700 }}>
