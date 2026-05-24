@@ -1440,12 +1440,13 @@ excursions: [
         thumb: "/images/Reykjavik1 Large.jpeg",
       },
     ],
-    tips: [
+tips: [
       "📍 You are docking at Pier Skarfabakki — this is about 15 min walk from the Old Harbour where most tours and the walking tour depart. Short taxi if needed.",
+      "🧶 Souvenir tip: For a genuine Icelandic wool sweater or authentic souvenir, look for shops with long, unpronounceable Icelandic names. Shops with generic names like 'Spirit of Iceland' are tourist traps selling mass-produced imports. Always check clothing labels for authentic Icelandic wool.",
+      "🌭 Bæjarins Beztu Pylsur: The legendary downtown hot dog stand. Delicious and cheap (~$6–8 CAD) but expect massive tourist lines. You can get nearly identical Icelandic hot dogs at any gas station without the wait.",
+      "🥐 Brauð & Co: Unmissable local bakery famous for some of the best cinnamon buns and pastries in the city. Go early — they sell out.",
       "There is a public 'Elf School' where you can learn about the Huldufólk ('hidden people') that many Icelanders genuinely believe live in the rocks. It's a real place.",
-      "Perlan (The Pearl) is a museum built on top of six massive hot water storage tanks that heat the entire city — the glass dome revolves and the views are spectacular.",
       "Sky Lagoon is a modern alternative to the Blue Lagoon — 10 min from some terminals, with a 7-step bathing ritual and an infinity pool overlooking the ocean.",
-      "Hallgrímskirkja church tower is ~$7 to take the elevator up, but the view over the city takes only 20 minutes and is absolutely worth it.",
       "Book direct with Iceland Highlights or Reykjavik Excursions for the Golden Circle — 20–40% cheaper than the cruise line's version.",
     ],
   },
