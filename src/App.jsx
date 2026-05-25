@@ -1279,9 +1279,9 @@ Stop 3 — Co-op Mega Kremmergaarden (Mid-Tier): Rasmus Rønnebergs gate 6, a fe
       {
         name: "Snæfellsnes Peninsula Tour ✅ BOOKED",
         type: "Scenic", badge: "must-do",
-        desc: "CONFIRMED · Ticket IH-T130990181 · 2 adults · 9:00am start. 'Iceland in Miniature' — covers Kirkjufell + Djúpalónssandur black beach, Arnarstapi sea cliffs, Búðakirkja black church, and Snæfellsjökull glacier-volcano (inspiration for Jules Verne's Journey to the Centre of the Earth). Boarding time on ship: 6pm day before. Disembarkation: 7am.",
+        desc: "CONFIRMED · Diana Ticket: IH-T130990181 Cassie Ticket: IH-92633310· 4 adults · 9:00am start. 'Iceland in Miniature' — covers Kirkjufell + Djúpalónssandur black beach, Arnarstapi sea cliffs, Búðakirkja black church, and Snæfellsjökull glacier-volcano (inspiration for Jules Verne's Journey to the Centre of the Earth). Boarding time on ship: 6pm day before. Disembarkation: 7am.",
         howto: "TENDER PORT — take the tender to shore first. Meeting point: directly at the Grundarfjörður cruise terminal/harbour parking lot (Norðurgarður, 350 Grundarfjörður). Guides meet passengers right by the ship on disembarkation — look for guides in black vests or light blue jackets, and a bus parked at the terminal.",
-        price: "✅ Paid ISK 43,391 · IH-T130990181", prebook: true,
+        price: "✅ Paid ISK 43,391 ", prebook: true,
         link: "https://www.iceland-highlights.com/grundarfjordur-shore-excursions/",
         mapsUrl: "https://www.google.com/maps/place/Grundarfjar%C3%B0arh%C3%B6fn/@64.9252429,-23.2543465,355m/data=!3m1!1e3!4m6!3m5!1s0x48d57a471601c213:0x99a9639636902901!8m2!3d64.9253967!4d-23.2523283!16s%2Fg%2F11b724jx22",
         mapsLabel: "📍 Grundarfjörður cruise terminal/harbour parking lot",
